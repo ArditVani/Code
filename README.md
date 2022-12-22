@@ -1,4 +1,4 @@
-# Code
+# Make IT Work Education
 <h3>Make IT Work education</h3>
 Retraining in Applied Artificial Intelligence at De Haagse Hogeschool / The Hague University of Applied Sciences. 
 
