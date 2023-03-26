@@ -1,0 +1,556 @@
+date,year,window,int/ext,within_league,season,player_name,position,from_country,from_league,from_team,to_country,to_league,team,age_transfer,market value,fee amount,duration_cleaned,dur_rounded,fee amount_mean,date_deadline,days_to_deadline,dtd_rounded
+2015-07-01,2015,1,E,False,15/16,Orlando Sá,Centre-Forward,Poland,Ekstraklasa,Legia Warszawa ,England,Championship,Reading FC,,1.5,1.5,23.0,24,2.42925,2015-09-01,62,
+2015-08-12,2015,1,E,False,15/16,Paolo Hurtado,Attacking Midfield,Portugal,Primeira Liga,Paços Ferreira ,England,Championship,Reading FC,,2.0,0.85,10.0,12,2.42925,2015-09-01,20,
+2015-08-03,2015,1,I,True,15/16,Alireza Jahanbakhsh,Right Winger,Netherlands,Eredivisie,NEC Nijmegen ,Netherlands,Eredivisie,AZ Alkmaar,,2.0,1.8,10.0,12,1.561764705882353,2015-08-31,28,
+2015-08-27,2015,1,I,True,15/16,Ben Rienstra,Central Midfield,Netherlands,Eredivisie,PEC Zwolle ,Netherlands,Eredivisie,AZ Alkmaar,,2.0,1.5,10.0,12,1.561764705882353,2015-08-31,4,
+2015-07-01,2015,1,I,False,15/16,Vincent Janssen,Centre-Forward,Netherlands,Jupiler League,Almere City ,Netherlands,Eredivisie,AZ Alkmaar,,0.4,0.5,11.0,12,1.561764705882353,2015-08-31,61,
+2015-08-04,2015,1,E,False,15/16,Rajko Brezancic,Left-Back,Serbia,SuperLiga,Cukaricki ,Netherlands,Eredivisie,AZ Alkmaar,,0.7,0.4,22.0,24,1.561764705882353,2015-08-31,27,
+2015-09-01,2015,1,E,False,15/16,Virgil van Dijk,Centre-Back,Scotland,Scottish Premiership,Celtic ,England,Premier League,Southampton FC,,5.0,15.7,21.0,24,13.768,2015-09-01,0,
+2015-07-15,2015,1,E,False,15/16,Jordy Clasie,Defensive Midfield,Netherlands,Eredivisie,Feyenoord ,England,Premier League,Southampton FC,,10.0,15.0,35.0,36,13.768,2015-09-01,48,
+2015-07-01,2015,1,E,False,15/16,Cédric Soares,Right-Back,Portugal,Primeira Liga,Sporting CP ,England,Premier League,Southampton FC,,9.5,7.0,11.0,12,13.768,2015-09-01,62,
+2015-07-01,2015,1,E,False,15/16,Juanmi,Right Winger,Spain,Primera División,Málaga CF ,England,Premier League,Southampton FC,,7.0,7.0,35.0,36,13.768,2015-09-01,62,
+2015-08-12,2015,1,I,True,15/16,Oriol Romeu,Defensive Midfield,England,Premier League,Chelsea ,England,Premier League,Southampton FC,,2.5,7.0,22.0,24,13.768,2015-09-01,20,
+2015-08-29,2015,1,I,False,15/16,Fernando Forestieri,Second Striker,England,Premier League,Watford ,England,Championship,Sheffield Wednesday,,2.0,4.12,34.0,36,2.638214285714285,2015-09-01,3,
+2015-07-31,2015,1,E,False,15/16,Lucas João,Centre-Forward,Portugal,Primeira Liga,Nacional ,England,Championship,Sheffield Wednesday,,1.8,2.78,34.0,36,2.638214285714285,2015-09-01,32,
+2015-08-05,2015,1,I,True,15/16,Rhoys Wiggins,Left-Back,England,Championship,Charlton ,England,Championship,Sheffield Wednesday,,0.7,1.0,34.0,36,2.638214285714285,2015-09-01,27,
+2015-07-16,2015,1,I,False,15/16,Lewis McGugan,Central Midfield,England,Premier League,Watford ,England,Championship,Sheffield Wednesday,,1.5,0.43,11.0,12,2.638214285714285,2015-09-01,47,
+2015-07-01,2015,1,E,False,15/16,Guillermo Cotugno,Right-Back,Uruguay,Primera Division Clausura,Danubio FC ,Russia,Premier Liga,Rubin Kazan,,1.5,1.0,0.0,0,2.267333333333333,2015-07-29,28,
+2015-07-01,2015,1,I,True,15/16,Maksim Batov,Central Midfield,Russia,Premier Liga,Amkar Perm ,Russia,Premier Liga,Rubin Kazan,,0.25,0.33,18.0,18,2.267333333333333,2015-08-31,61,
+2015-07-02,2015,1,I,False,15/16,Albert Sharipov,Central Midfield,Russia,1.Division,Tom Tomsk ,Russia,Premier Liga,Rubin Kazan,,0.5,0.2,11.0,12,2.267333333333333,2015-08-31,60,
+2015-07-27,2015,1,E,False,15/16,Jordan Ayew,Centre-Forward,France,Ligue 1,FC Lorient ,England,Premier League,Aston Villa,23.0,6.0,12.0,35.0,36,8.914130434782608,2015-09-01,36,
+2015-07-18,2015,1,E,False,15/16,Jordan Amavi,Left-Back,France,Ligue 1,OGC Nice ,England,Premier League,Aston Villa,,4.0,11.0,23.0,24,8.914130434782608,2015-09-01,45,
+2015-07-31,2015,1,E,False,15/16,Jordan Veretout,Central Midfield,France,Ligue 1,FC Nantes ,England,Premier League,Aston Villa,,8.0,10.0,22.0,24,8.914130434782608,2015-09-01,32,
+2015-08-14,2015,1,E,False,15/16,Adama Traoré,Right Winger,Spain,Segunda División B - Grupo III,FC Barcelona B ,England,Premier League,Aston Villa,,5.0,10.0,34.0,36,8.914130434782608,2015-09-01,18,
+2015-07-10,2015,1,E,False,15/16,Idrissa Gueye,Defensive Midfield,France,Ligue 1,LOSC Lille ,England,Premier League,Aston Villa,25.0,7.5,9.0,35.0,36,8.914130434782608,2015-09-01,53,
+2015-07-31,2015,1,I,False,15/16,Rudy Gestede,Centre-Forward,England,Championship,Blackburn ,England,Premier League,Aston Villa,,3.5,8.5,22.0,24,8.914130434782608,2015-09-01,32,
+2015-07-01,2015,1,I,True,15/16,Scott Sinclair,Left Winger,England,Premier League,Man City ,England,Premier League,Aston Villa,,3.5,3.5,11.0,12,8.914130434782608,2015-09-01,62,
+2015-09-01,2015,1,I,True,15/16,Joleon Lescott,Centre-Back,England,Premier League,West Brom ,England,Premier League,Aston Villa,,4.0,1.4,9.0,12,8.914130434782608,2015-09-01,0,
+2015-07-28,2015,1,E,False,15/16,José Crespo,Centre-Back,Spain,Segunda División,Córdoba CF ,England,Premier League,Aston Villa,,0.8,0.8,23.0,24,8.914130434782608,2015-09-01,35,
+2015-07-18,2015,1,I,False,15/16,Baptiste Guillaume,Centre-Forward,France,Ligue 2,Lens ,France,Ligue 1,LOSC Lille,,1.25,4.0,47.0,48,6.19,2015-08-31,44,
+2015-07-01,2015,1,I,True,15/16,Eric Bauthéac,Attacking Midfield,France,Ligue 1,OGC Nice ,France,Ligue 1,LOSC Lille,,4.0,2.4,11.0,12,6.19,2015-08-31,61,
+2015-07-16,2015,1,I,False,15/16,Ibrahim Amadou,Defensive Midfield,France,Ligue 2,AS Nancy ,France,Ligue 1,LOSC Lille,22.0,0.6,2.0,11.0,12,6.19,2015-08-31,46,
+2015-08-31,2015,1,I,True,15/16,Lenny Nangis,Left Winger,France,Ligue 1,SM Caen ,France,Ligue 1,LOSC Lille,21.0,2.5,1.0,9.0,12,6.19,2015-08-31,0,
+2015-08-31,2015,1,I,True,15/16,Yassine Benzia,Attacking Midfield,France,Ligue 1,Olympique Lyon ,France,Ligue 1,LOSC Lille,,2.0,1.0,9.0,12,6.19,2015-08-31,0,
+2015-07-15,2015,1,E,False,15/16,Junior Tallo,Centre-Forward,Italy,Serie A,AS Roma ,France,Ligue 1,LOSC Lille,22.0,2.0,1.0,0.0,0,6.19,2015-08-31,47,
+2015-08-18,2015,1,I,True,15/16,Mike Maignan,Goalkeeper,France,Ligue 1,Paris SG ,France,Ligue 1,LOSC Lille,20.0,0.25,1.0,10.0,12,6.19,2015-08-31,13,
+2015-07-02,2015,1,I,False,15/16,Serhou Guirassy,Centre-Forward,France,Ligue 2,Stade Lavallois ,France,Ligue 1,LOSC Lille,,0.4,0.5,23.0,24,6.19,2015-08-31,60,
+2015-08-31,2015,1,I,False,15/16,Mickaël Le Bihan,Centre-Forward,France,Ligue 2,AC Le Havre ,France,Ligue 1,OGC Nice,25.0,1.5,1.5,9.0,12,5.029333333333333,2015-08-31,0,
+2015-07-01,2015,1,E,False,15/16,Jean Michaël Seri,Central Midfield,Portugal,Primeira Liga,Paços Ferreira ,France,Ligue 1,OGC Nice,23.0,2.0,1.0,11.0,12,5.029333333333333,2015-08-31,61,
+2015-07-01,2015,1,I,False,15/16,Maxime Le Marchand,Centre-Back,France,Ligue 2,AC Le Havre ,France,Ligue 1,OGC Nice,25.0,0.8,0.6,11.0,12,5.029333333333333,2015-08-31,61,
+2015-07-28,2015,1,E,False,15/16,Naby Sarr,Centre-Back,Portugal,Primeira Liga,Sporting CP ,England,Championship,Charlton Athletic,21.0,2.5,2.0,59.0,60,0.8291666666666666,2015-09-01,35,
+2015-07-01,2015,1,E,False,15/16,Patrick Bauer,Centre-Back,Portugal,Primeira Liga,Marítimo ,England,Championship,Charlton Athletic,22.0,1.6,1.5,11.0,12,0.8291666666666666,2015-09-01,62,
+2015-07-01,2015,1,I,False,15/16,El-Hadji Ba,Defensive Midfield,England,Premier League,Sunderland ,England,Championship,Charlton Athletic,22.0,0.4,0.5,0.0,0,0.8291666666666666,2015-09-01,62,
+2015-07-23,2015,1,E,False,15/16,Zakarya Bergdich,Left-Back,Spain,Segunda División,Real Valladolid ,England,Championship,Charlton Athletic,26.0,1.7,0.25,11.0,12,0.8291666666666666,2015-09-01,40,
+2015-07-01,2015,1,I,False,15/16,Elias Kachunga,Centre-Forward,Germany,2.Bundesliga,SC Paderborn ,Germany,1.Bundesliga,FC Ingolstadt 04,23.0,2.3,1.5,11.0,12,1.6437499999999998,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Markus Suttner,Left-Back,Austria,Bundesliga,Austria Vienna ,Germany,1.Bundesliga,FC Ingolstadt 04,,1.0,0.7,11.0,12,1.6437499999999998,2015-08-31,61,
+2015-08-31,2015,1,I,True,15/16,Maurice Multhaup,Right Midfield,Germany,1.Bundesliga,FC Schalke 04 ,Germany,1.Bundesliga,FC Ingolstadt 04,,0.2,0.5,9.0,12,1.6437499999999998,2015-08-31,0,
+2015-07-01,2015,1,I,True,15/16,Nemanja Gudelj,Defensive Midfield,Netherlands,Eredivisie,AZ Alkmaar ,Netherlands,Eredivisie,Ajax Amsterdam,23.0,6.0,6.0,23.0,24,7.955172413793102,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Arkadiusz Milik,Centre-Forward,Germany,1.Bundesliga,Bay. Leverkusen ,Netherlands,Eredivisie,Ajax Amsterdam,21.0,6.5,2.8,35.0,36,7.955172413793102,2015-08-31,61,
+2015-07-16,2015,1,E,False,15/16,Amin Younes,Left Winger,Germany,1.Bundesliga,Bor. M'gladbach ,Netherlands,Eredivisie,Ajax Amsterdam,21.0,1.0,2.5,11.0,12,7.955172413793102,2015-08-31,46,
+2015-08-11,2015,1,E,False,15/16,Xherdan Shaqiri,Right Winger,Italy,Serie A,Inter ,England,Premier League,Stoke City,23.0,17.0,17.0,46.0,48,7.4769999999999985,2015-09-01,21,
+2015-07-01,2015,1,E,False,15/16,Joselu,Centre-Forward,Germany,1.Bundesliga,Hannover 96 ,England,Premier League,Stoke City,25.0,6.0,8.0,35.0,36,7.4769999999999985,2015-09-01,62,
+2015-07-01,2015,1,E,False,15/16,Philipp Wollscheid,Centre-Back,Germany,1.Bundesliga,Bay. Leverkusen ,England,Premier League,Stoke City,26.0,5.0,3.8,23.0,24,7.4769999999999985,2015-09-01,62,
+2015-07-01,2015,1,E,False,15/16,Jakob Haugaard,Goalkeeper,Denmark,Superligaen,FC Midtjylland ,England,Premier League,Stoke City,23.0,0.75,0.6,6.0,6,7.4769999999999985,2015-09-01,62,
+2015-07-01,2015,1,I,False,15/16,Lucas Castro,Central Midfield,Italy,Prima Divisione - Girone C,Catania ,Italy,Serie A,Chievo Verona,26.0,2.8,3.5,0.0,0,1.4575,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Ervin Zukanovic,Centre-Back,Belgium,Jupiler Pro League,KAA Gent ,Italy,Serie A,Chievo Verona,,3.5,1.0,23.0,24,1.4575,2015-08-31,61,
+2015-07-01,2015,1,I,False,15/16,Marco Calderoni,Left-Back,Italy,Serie B,Bari ,Italy,Serie A,Chievo Verona,26.0,0.4,0.1,0.0,0,1.4575,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Giovanni Sio,Centre-Forward,Switzerland,Raiffeisen Super League,FC Basel ,France,Ligue 1,Stade Rennais FC,26.0,2.0,2.0,23.0,24,6.943214285714285,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Yacouba Sylla,Defensive Midfield,England,Premier League,Aston Villa ,France,Ligue 1,Stade Rennais FC,,1.0,1.5,11.0,12,6.943214285714285,2015-08-31,61,
+2015-08-12,2015,1,I,True,15/16,Mehdi Zeffane,Right-Back,France,Ligue 1,Olympique Lyon ,France,Ligue 1,Stade Rennais FC,23.0,1.25,1.0,22.0,24,6.943214285714285,2015-08-31,19,
+2015-07-16,2015,1,I,False,15/16,Stewart Downing,Left Midfield,England,Premier League,West Ham ,England,Championship,Middlesbrough FC,,6.0,7.9,23.0,24,5.690344827586206,2015-09-01,47,
+2015-08-14,2015,1,I,False,15/16,David Nugent,Centre-Forward,England,Premier League,Leicester ,England,Championship,Middlesbrough FC,,2.0,5.6,10.0,12,5.690344827586206,2015-09-01,18,
+2015-08-07,2015,1,E,False,15/16,Cristhian Stuani,Centre-Forward,Spain,Primera División,Espanyol ,England,Championship,Middlesbrough FC,28.0,4.0,3.0,34.0,36,5.690344827586206,2015-09-01,25,
+2015-09-01,2015,1,E,False,15/16,Carlos de Pena,Left Winger,Uruguay,Primera Division Clausura,Nacional ,England,Championship,Middlesbrough FC,23.0,2.8,2.4,9.0,12,5.690344827586206,2015-09-01,0,
+2015-08-31,2015,1,I,True,15/16,Julian Draxler,Attacking Midfield,Germany,1.Bundesliga,FC Schalke 04 ,Germany,1.Bundesliga,VfL Wolfsburg,21.0,22.0,43.0,33.0,36,7.63,2015-08-31,0,
+2015-07-01,2015,1,I,True,15/16,Max Kruse,Second Striker,Germany,1.Bundesliga,Bor. M'gladbach ,Germany,1.Bundesliga,VfL Wolfsburg,,12.0,12.0,23.0,24,7.63,2015-08-31,61,
+2015-08-30,2015,1,I,True,15/16,Dante,Centre-Back,Germany,1.Bundesliga,Bayern Munich  ,Germany,1.Bundesliga,VfL Wolfsburg,,6.0,4.5,22.0,24,7.63,2015-08-31,1,
+2015-07-21,2015,1,E,False,15/16,Francisco Rodríguez,Left Midfield,Switzerland,Raiffeisen Super League,FC Zürich ,Germany,1.Bundesliga,VfL Wolfsburg,,0.9,1.6,23.0,24,7.63,2015-08-31,41,
+2015-07-23,2015,1,E,False,15/16,Carlos Ascues,Central Midfield,Peru,Torneo Descentralizado Clausura Entscheidungsspiel,FBC Melgar ,Germany,1.Bundesliga,VfL Wolfsburg,23.0,0.5,1.5,0.0,0,7.63,2015-08-31,39,
+2015-08-30,2015,1,E,False,15/16,Ismail Azzaoui,Right Winger,England,U21 Premier League,Tottenham U23 ,Germany,1.Bundesliga,VfL Wolfsburg,,0.75,1.0,0.0,0,7.63,2015-08-31,1,
+2015-08-12,2015,1,I,False,15/16,Betinho,Centre-Forward,Portugal,Segunda Liga,Sporting B ,Portugal,Primeira Liga,Belenenses SAD,22.0,1.0,0.25,34.0,36,0.25,2015-08-26,14,
+2015-08-13,2015,1,E,False,15/16,Raúl Jiménez,Centre-Forward,Spain,Primera División,Atlético Madrid ,Portugal,Primeira Liga,SL Benfica,24.0,5.0,22.0,46.0,48,6.82325,2015-08-31,18,
+2015-07-01,2015,1,E,False,15/16,Mehdi Carcela-González,Right Winger,Belgium,Jupiler Pro League,Standard Liège ,Portugal,Primeira Liga,SL Benfica,26.0,3.5,2.5,11.0,12,6.82325,2015-08-31,61,
+2015-07-01,2015,1,unknown,False,15/16,Jhon Murillo,Left Winger,Unknown,Unknown,Zamora ,Portugal,Primeira Liga,SL Benfica,19.0,0.5,0.75,0.0,0,6.82325,2015-07-01,0,
+2015-07-01,2015,1,I,True,15/16,Ederson,Goalkeeper,Portugal,Primeira Liga,Rio Ave FC ,Portugal,Primeira Liga,SL Benfica,21.0,1.2,0.5,47.0,48,6.82325,2015-08-26,56,
+2015-07-01,2015,1,I,True,15/16,Diego Lopes,Attacking Midfield,Portugal,Primeira Liga,Rio Ave FC ,Portugal,Primeira Liga,SL Benfica,21.0,4.0,0.1,35.0,36,6.82325,2015-08-26,56,
+2015-07-01,2015,1,I,True,15/16,Anthony Modeste,Centre-Forward,Germany,1.Bundesliga,TSG Hoffenheim ,Germany,1.Bundesliga,1. FC Köln,27.0,4.5,4.5,0.0,0,4.428636363636363,2015-08-31,61,
+2015-07-05,2015,1,I,True,15/16,Milos Jojic,Central Midfield,Germany,1.Bundesliga,Bor. Dortmund ,Germany,1.Bundesliga,1. FC Köln,23.0,2.5,3.0,35.0,36,4.428636363636363,2015-08-31,57,
+2015-07-14,2015,1,I,True,15/16,Leonardo Bittencourt,Attacking Midfield,Germany,1.Bundesliga,Hannover 96 ,Germany,1.Bundesliga,1. FC Köln,21.0,4.0,2.5,23.0,24,4.428636363636363,2015-08-31,48,
+2015-07-11,2015,1,E,False,15/16,Frederik Sörensen,Centre-Back,Italy,Serie A,Juventus ,Germany,1.Bundesliga,1. FC Köln,23.0,2.0,1.78,0.0,0,4.428636363636363,2015-08-31,51,
+2015-07-01,2015,1,I,False,15/16,Dominique Heintz,Centre-Back,Germany,2.Bundesliga,1.FC K'lautern ,Germany,1.Bundesliga,1. FC Köln,21.0,2.0,1.5,0.0,0,4.428636363636363,2015-08-31,61,
+2015-07-09,2015,1,E,False,15/16,Steven Nzonzi,Defensive Midfield,England,Premier League,Stoke City ,Spain,Primera División,Sevilla FC,26.0,7.5,8.0,0.0,0,9.815384615384616,2015-08-31,53,
+2015-07-01,2015,1,E,False,15/16,Iago Aspas,Centre-Forward,England,Premier League,Liverpool ,Spain,Primera División,Sevilla FC,27.0,4.0,6.0,35.0,36,9.815384615384616,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Gaël Kakuta,Attacking Midfield,England,Premier League,Chelsea ,Spain,Primera División,Sevilla FC,24.0,3.5,6.0,0.0,0,9.815384615384616,2015-08-31,61,
+2015-07-20,2015,1,E,False,15/16,Mariano,Right-Back,France,Ligue 1,G. Bordeaux ,Spain,Primera División,Sevilla FC,,4.5,3.5,11.0,12,9.815384615384616,2015-08-31,42,
+2015-07-03,2015,1,I,True,15/16,Sergio Escudero,Left-Back,Spain,Primera División,Getafe ,Spain,Primera División,Sevilla FC,25.0,3.0,3.0,35.0,36,9.815384615384616,2015-08-31,59,
+2015-07-01,2015,1,E,False,15/16,Adil Rami,Centre-Back,Italy,Serie A,AC Milan ,Spain,Primera División,Sevilla FC,,4.0,2.5,23.0,24,9.815384615384616,2015-08-31,61,
+2015-08-12,2015,1,E,False,15/16,Uwe Hünemeier,Centre-Back,Germany,2.Bundesliga,SC Paderborn ,England,Championship,Brighton & Hove Albion,,1.5,2.7,10.0,12,6.0618000000000025,2015-09-01,20,
+2015-08-14,2015,1,I,False,15/16,Jamie Murphy,Left Winger,England,League One,Sheff Utd ,England,Championship,Brighton & Hove Albion,25.0,0.75,2.1,10.0,12,6.0618000000000025,2015-09-01,18,
+2015-07-01,2015,1,E,False,15/16,Tomer Hemed,Centre-Forward,Spain,Segunda División,UD Almería ,England,Championship,Brighton & Hove Albion,28.0,2.5,1.4,11.0,12,6.0618000000000025,2015-09-01,62,
+2015-08-29,2015,1,E,False,15/16,Elvis Manu,Left Winger,Netherlands,Eredivisie,Feyenoord ,England,Championship,Brighton & Hove Albion,22.0,2.0,1.2,22.0,24,6.0618000000000025,2015-09-01,3,
+2015-08-19,2015,1,I,False,15/16,Connor Goldson,Centre-Back,England,League One,Shrewsbury ,England,Championship,Brighton & Hove Albion,22.0,0.05,0.85,0.0,0,6.0618000000000025,2015-09-01,13,
+2015-07-01,2015,1,unknown,False,15/16,Joe Ward,Right Midfield,Unknown,Unknown,Chelmsford City ,England,Championship,Brighton & Hove Albion,19.0,2e-05,0.02,0.0,0,6.0618000000000025,2015-07-01,0,
+2015-07-03,2015,1,I,False,15/16,Nicolas Benezet,Left Winger,France,Ligue 2,Thonon Évian ,France,Ligue 1,EA Guingamp,24.0,1.5,1.2,23.0,24,0.975,2015-08-31,59,
+2015-07-01,2015,1,E,False,15/16,Nill De Pauw,Right Winger,Belgium,Jupiler Pro League,KSC Lokeren ,France,Ligue 1,EA Guingamp,25.0,2.5,0.75,0.0,0,0.975,2015-08-31,61,
+2015-07-06,2015,1,I,True,15/16,Arda Turan,Left Winger,Spain,Primera División,Atlético Madrid ,Spain,Primera División,FC Barcelona,28.0,35.0,34.0,23.0,24,34.0984375,2015-08-31,56,
+2015-07-01,2015,1,I,True,15/16,Aleix Vidal,Right-Back,Spain,Primera División,Sevilla FC ,Spain,Primera División,FC Barcelona,25.0,10.0,17.0,47.0,48,34.0984375,2015-08-31,61,
+2015-07-01,2015,1,I,False,15/16,Tyrone Mings,Centre-Back,England,Championship,Ipswich ,England,Premier League,AFC Bournemouth,22.0,6.0,11.3,23.0,24,11.225,2015-09-01,62,
+2015-08-04,2015,1,E,False,15/16,Max Gradel,Left Winger,France,Ligue 1,Saint-Étienne ,England,Premier League,AFC Bournemouth,27.0,6.5,10.0,22.0,24,11.225,2015-09-01,28,
+2015-09-01,2015,1,I,True,15/16,Glenn Murray,Centre-Forward,England,Premier League,Crystal Palace ,England,Premier League,AFC Bournemouth,,2.5,5.4,9.0,12,11.225,2015-09-01,0,
+2015-08-04,2015,1,I,False,15/16,Lee Tomlin,Second Striker,England,Championship,Middlesbrough ,England,Premier League,AFC Bournemouth,26.0,1.75,4.3,22.0,24,11.225,2015-09-01,28,
+2015-07-01,2015,1,I,False,15/16,Mario Vrancic,Central Midfield,Germany,2.Bundesliga,SC Paderborn ,Germany,1.Bundesliga,SV Darmstadt 98,26.0,1.75,0.5,11.0,12,0.7833333333333332,2015-08-31,61,
+2015-07-05,2015,1,I,True,15/16,Fabian Holland,Left-Back,Germany,1.Bundesliga,Hertha BSC ,Germany,1.Bundesliga,SV Darmstadt 98,24.0,0.9,0.5,11.0,12,0.7833333333333332,2015-08-31,57,
+2015-08-07,2015,1,E,False,15/16,Somália,Central Midfield,Hungary,Nemzeti Bajnokság,Ferencváros ,France,Ligue 1,FC Toulouse,26.0,0.8,2.4,0.0,0,3.0088235294117647,2015-08-31,24,
+2015-07-14,2015,1,E,False,15/16,Mauro Goicoechea,Goalkeeper,Portugal,Primeira Liga,Arouca ,France,Ligue 1,FC Toulouse,27.0,1.7,0.5,11.0,12,3.0088235294117647,2015-08-31,48,
+2015-07-10,2015,1,E,False,15/16,Ivan Cavaleiro,Right Winger,Portugal,Primeira Liga,Benfica ,France,Ligue 1,AS Monaco,21.0,3.5,15.0,35.0,36,11.797454545454546,2015-08-31,52,
+2015-07-10,2015,1,I,True,15/16,Adama Traoré,Central Midfield,France,Ligue 1,LOSC Lille ,France,Ligue 1,AS Monaco,20.0,1.25,14.0,47.0,48,11.797454545454546,2015-08-31,52,
+2015-08-28,2015,1,E,False,15/16,Rony Lopes,Right Winger,England,Premier League,Man City ,France,Ligue 1,AS Monaco,19.0,4.5,12.0,10.0,12,11.797454545454546,2015-08-31,3,
+2015-08-11,2015,1,E,False,15/16,Gabriel Boschilia,Attacking Midfield,Brazil,Campeonato Brasileiro Série A,São Paulo ,France,Ligue 1,AS Monaco,19.0,3.0,9.06,48.0,48,11.797454545454546,2015-08-31,20,
+2015-07-01,2015,1,E,False,15/16,Guido Carrillo,Centre-Forward,Argentina,Primera División,Estudiantes ,France,Ligue 1,AS Monaco,24.0,3.2,9.0,0.0,0,11.797454545454546,2015-08-31,61,
+2015-07-01,2015,1,E,False,15/16,Fabinho,Defensive Midfield,Portugal,Primeira Liga,Rio Ave FC ,France,Ligue 1,AS Monaco,21.0,8.0,6.0,35.0,36,11.797454545454546,2015-08-31,61,
+2015-07-30,2015,1,I,True,15/16,Allan Saint-Maximin,Left Winger,France,Ligue 1,Saint-Étienne ,France,Ligue 1,AS Monaco,,1.0,5.0,47.0,48,11.797454545454546,2015-08-31,32,
+2015-07-01,2015,1,E,False,15/16,Gil Dias,Right Winger,Portugal,Segunda Liga,Braga B ,France,Ligue 1,AS Monaco,,5e-06,5.0,0.0,0,11.797454545454546,2015-08-31,61,
+2015-07-01,2015,1,I,True,15/16,Corentin Jean,Centre-Forward,France,Ligue 1,Troyes ,France,Ligue 1,AS Monaco,19.0,2.0,4.0,11.0,12,11.797454545454546,2015-08-31,61,
+2015-07-01,2015,1,I,True,15/16,Thomas Lemar,Left Winger,France,Ligue 1,SM Caen ,France,Ligue 1,AS Monaco,19.0,1.25,4.0,23.0,24,11.797454545454546,2015-08-31,61,
+2015-08-21,2015,1,E,False,15/16,Nicolai Brock-Madsen,Centre-Forward,Denmark,Superligaen,Randers FC ,England,Championship,Birmingham City,22.0,0.4,0.69,10.0,12,2.1531818181818183,2015-09-01,11,
+2015-07-27,2015,1,E,False,15/16,Maikel Kieftenbeld,Defensive Midfield,Netherlands,Eredivisie,FC Groningen ,England,Championship,Birmingham City,25.0,2.0,0.25,11.0,12,2.1531818181818183,2015-09-01,36,
+2015-07-01,2015,1,I,True,15/16,Domenico Berardi,Right Winger,Italy,Serie A,Juventus ,Italy,Serie A,US Sassuolo,20.0,17.5,10.0,0.0,0,4.409583333333333,2015-08-31,61,
+2015-08-05,2015,1,I,False,15/16,Grégoire Defrel,Centre-Forward,Italy,Serie B,Cesena ,Italy,Serie A,US Sassuolo,24.0,6.0,7.0,0.0,0,4.409583333333333,2015-08-31,26,
+2015-07-01,2015,1,I,False,15/16,Lorenzo Pellegrini,Central Midfield,Italy,Campionato Primavera Girone C,Roma U19 ,Italy,Serie A,US Sassuolo,19.0,0.25,1.25,0.0,0,4.409583333333333,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Giovanni Sbrissa,Central Midfield,Italy,Serie B,Vicenza ,Italy,Serie A,US Sassuolo,18.0,0.6,0.8,0.0,0,4.409583333333333,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Josip Drmic,Centre-Forward,Germany,1.Bundesliga,Bay. Leverkusen ,Germany,1.Bundesliga,Borussia Mönchengladbach,22.0,8.0,10.0,47.0,48,7.4940000000000015,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Thorgan Hazard,Left Winger,England,Premier League,Chelsea ,Germany,1.Bundesliga,Borussia Mönchengladbach,22.0,10.0,8.0,11.0,12,7.4940000000000015,2015-08-31,61,60.0
+2015-08-18,2015,1,I,True,15/16,Nico Schulz,Left-Back,Germany,1.Bundesliga,Hertha BSC ,Germany,1.Bundesliga,Borussia Mönchengladbach,22.0,3.5,4.0,10.0,12,7.4940000000000015,2015-08-31,13,
+2015-07-01,2015,1,E,False,15/16,Nico Elvedi,Centre-Back,Switzerland,Raiffeisen Super League,FC Zürich ,Germany,1.Bundesliga,Borussia Mönchengladbach,18.0,4.0,4.0,23.0,24,7.4940000000000015,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Lars Stindl,Second Striker,Germany,1.Bundesliga,Hannover 96 ,Germany,1.Bundesliga,Borussia Mönchengladbach,26.0,8.5,3.0,11.0,12,7.4940000000000015,2015-08-31,61,60.0
+2015-07-13,2015,1,E,False,15/16,Sly,Centre-Forward,Denmark,Superligaen,FC Midtjylland ,Russia,Premier Liga,FK Ufa,24.0,1.25,0.7,17.0,18,0.4519333333333334,2015-07-29,16,
+2015-08-31,2015,1,I,True,15/16,Vyacheslav Krotov,Centre-Forward,Russia,Premier Liga,Spartak Moscow ,Russia,Premier Liga,FK Ufa,22.0,0.3,0.5,21.0,24,0.4519333333333334,2015-08-31,0,
+2015-07-02,2015,1,E,False,15/16,Kolbeinn Sigthórsson,Centre-Forward,Netherlands,Eredivisie,Ajax ,France,Ligue 1,FC Nantes,25.0,3.5,3.0,11.0,12,2.502083333333333,2015-08-31,60,60.0
+2015-07-20,2015,1,I,True,15/16,,Centre-Forward,France,Ligue 1,G. Bordeaux ,France,Ligue 1,FC Nantes,24.0,1.5,1.0,23.0,24,2.502083333333333,2015-08-31,42,
+2015-07-01,2015,1,I,False,15/16,Adrien Thomasson,Attacking Midfield,France,Ligue 2,Thonon Évian ,France,Ligue 1,FC Nantes,21.0,1.0,0.8,11.0,12,2.502083333333333,2015-08-31,61,60.0
+2015-08-31,2015,1,E,False,15/16,Lorik Cana,Defensive Midfield,Italy,Serie A,Lazio ,France,Ligue 1,FC Nantes,,1.3,0.2,0.0,0,2.502083333333333,2015-08-31,0,
+2015-07-10,2015,1,I,False,15/16,Kyle Dempsey,Central Midfield,England,League Two,Carlisle United ,England,Championship,Huddersfield Town,19.0,0.00042,0.42,11.0,12,4.9194,2015-09-01,53,
+2015-07-17,2015,1,I,False,15/16,Jordy Hiwula,Centre-Forward,England,U21 Premier League,Man City U23 ,England,Championship,Huddersfield Town,20.0,0.000215,0.215,11.0,12,4.9194,2015-09-01,46,
+2015-07-01,2015,1,I,True,15/16,Anthony Ujah,Centre-Forward,Germany,1.Bundesliga,1. FC Köln ,Germany,1.Bundesliga,SV Werder Bremen,24.0,4.5,4.5,23.0,24,3.502962962962963,2015-08-31,61,60.0
+2015-08-05,2015,1,E,False,15/16,Aron Jóhannsson,Centre-Forward,Netherlands,Eredivisie,AZ Alkmaar ,Germany,1.Bundesliga,SV Werder Bremen,24.0,3.5,4.2,22.0,24,3.502962962962963,2015-08-31,26,
+2015-07-01,2015,1,E,False,15/16,Ulisses Garcia,Left-Back,Switzerland,Raiffeisen Super League,Grasshoppers ,Germany,1.Bundesliga,SV Werder Bremen,19.0,0.15,0.6,0.0,0,3.502962962962963,2015-08-31,61,60.0
+2015-07-29,2015,1,E,False,15/16,Christian Noboa,Central Midfield,Greece,Super League,PAOK Salonika ,Russia,Premier Liga,FK Rostov,,7.5,1.5,23.0,24,0.8197567567567571,2015-07-29,0,
+2015-07-01,2015,1,E,False,15/16,Lewis Holtby,Central Midfield,England,Premier League,Spurs ,Germany,1.Bundesliga,Hamburger SV,24.0,4.0,6.5,35.0,36,3.957142857142857,2015-08-31,61,60.0
+2015-07-18,2015,1,E,False,15/16,Albin Ekdal,Defensive Midfield,Italy,Serie B,Cagliari Calcio ,Germany,1.Bundesliga,Hamburger SV,25.0,4.5,4.5,11.0,12,3.957142857142857,2015-08-31,44,
+2015-08-31,2015,1,I,True,15/16,Aaron Hunt,Attacking Midfield,Germany,1.Bundesliga,VfL Wolfsburg ,Germany,1.Bundesliga,Hamburger SV,28.0,3.5,3.0,21.0,24,3.957142857142857,2015-08-31,0,
+2015-07-23,2015,1,I,False,15/16,Michael Gregoritsch,Second Striker,Germany,2.Bundesliga,VfL Bochum ,Germany,1.Bundesliga,Hamburger SV,21.0,1.5,3.0,35.0,36,3.957142857142857,2015-08-31,39,
+2015-07-24,2015,1,I,True,15/16,Sven Schipplock,Centre-Forward,Germany,1.Bundesliga,TSG Hoffenheim ,Germany,1.Bundesliga,Hamburger SV,26.0,2.5,2.5,11.0,12,3.957142857142857,2015-08-31,38,
+2015-07-06,2015,1,I,True,15/16,Gotoku Sakai,Left-Back,Germany,1.Bundesliga,VfB Stuttgart ,Germany,1.Bundesliga,Hamburger SV,24.0,2.0,0.7,11.0,12,3.957142857142857,2015-08-31,56,60.0
+2015-07-04,2015,1,E,False,15/16,Batuhan Altintas,Centre-Forward,Turkey,Süper Lig,Bursaspor ,Germany,1.Bundesliga,Hamburger SV,19.0,0.4,0.4,0.0,0,3.957142857142857,2015-08-31,58,60.0
+2015-07-17,2015,1,E,False,15/16,Andreas Hirzel,Goalkeeper,Switzerland,Raiffeisen Super League,FC Vaduz ,Germany,1.Bundesliga,Hamburger SV,22.0,0.1,0.05,11.0,12,3.957142857142857,2015-08-31,45,
+2015-07-16,2015,1,E,False,15/16,Jackson Martínez,Centre-Forward,Portugal,Primeira Liga,FC Porto ,Spain,Primera División,Atlético Madrid,28.0,35.0,35.0,23.0,24,21.962857142857143,2015-08-31,46,
+2015-07-07,2015,1,I,True,15/16,Luciano Vietto,Centre-Forward,Spain,Primera División,Villarreal ,Spain,Primera División,Atlético Madrid,21.0,20.0,20.0,47.0,48,21.962857142857143,2015-08-31,55,60.0
+2015-07-28,2015,1,E,False,15/16,Filipe Luís,Left-Back,England,Premier League,Chelsea ,Spain,Primera División,Atlético Madrid,29.0,15.0,16.0,23.0,24,21.962857142857143,2015-08-31,34,
+2015-07-10,2015,1,E,False,15/16,Yannick Carrasco,Left Winger,France,Ligue 1,Monaco ,Spain,Primera División,Atlético Madrid,21.0,9.0,15.0,0.0,0,21.962857142857143,2015-08-31,52,
+2015-07-20,2015,1,E,False,15/16,Stefan Savic,Centre-Back,Italy,Serie A,Fiorentina ,Spain,Primera División,Atlético Madrid,24.0,15.0,12.0,0.0,0,21.962857142857143,2015-08-31,42,
+2015-08-29,2015,1,E,True,15/16,Matías Kranevitter,Defensive Midfield,Argentina,Primera División,River Plate ,Spain,Primera División,Atlético Madrid,22.0,7.0,6.0,10.0,12,21.962857142857143,2015-08-31,2,
+2015-07-22,2015,1,E,False,15/16,Bernard Mensah,Attacking Midfield,Portugal,Primeira Liga,Vit. Guimarães ,Spain,Primera División,Atlético Madrid,20.0,4.0,6.0,35.0,36,21.962857142857143,2015-08-31,40,
+2015-08-28,2015,1,E,False,15/16,Santos Borré,Centre-Forward,Colombia,Liga Postobon II,Deportivo Cali ,Spain,Primera División,Atlético Madrid,19.0,5e-06,5.0,0.0,0,21.962857142857143,2015-08-31,3,
+2015-08-03,2015,1,I,True,15/16,Connor Wickham,Centre-Forward,England,Premier League,Sunderland ,England,Premier League,Crystal Palace,22.0,5.0,10.0,46.0,48,10.975,2015-09-01,29,
+2015-07-23,2015,1,I,False,15/16,Alex McCarthy,Goalkeeper,England,Championship,QPR ,England,Premier League,Crystal Palace,25.0,2.5,4.9,35.0,36,10.975,2015-09-01,40,
+2015-09-01,2015,1,E,False,15/16,Ramiro Funes Mori,Centre-Back,Argentina,Primera División,River Plate ,England,Premier League,Everton FC,24.0,6.0,12.9,21.0,24,17.73393939393939,2015-09-01,0,
+2015-07-01,2015,1,E,False,15/16,Gerard Deulofeu,Left Winger,Spain,Primera División,FC Barcelona ,England,Premier League,Everton FC,21.0,6.0,6.0,23.0,24,17.73393939393939,2015-09-01,62,60.0
+2015-09-01,2015,1,I,True,15/16,Aaron Lennon,Right Winger,England,Premier League,Spurs ,England,Premier League,Everton FC,28.0,8.5,6.0,9.0,12,17.73393939393939,2015-09-01,0,
+2015-08-13,2015,1,I,False,15/16,Mason Holgate,Centre-Back,England,League One,Barnsley FC ,England,Premier League,Everton FC,18.0,0.075,1.4,10.0,12,17.73393939393939,2015-09-01,19,
+2015-08-28,2015,1,E,False,15/16,Leandro Rodríguez,Centre-Forward,Uruguay,Primera Division Clausura,River Plate ,England,Premier League,Everton FC,22.0,0.8,0.7,0.0,0,17.73393939393939,2015-09-01,4,
+2015-07-01,2015,1,E,False,15/16,Dimitri Payet,Left Winger,France,Ligue 1,Marseille ,England,Premier League,West Ham United,28.0,13.0,15.0,23.0,24,12.95625,2015-09-01,62,60.0
+2015-07-10,2015,1,E,False,15/16,Angelo Ogbonna,Centre-Back,Italy,Serie A,Juventus ,England,Premier League,West Ham United,27.0,9.0,11.0,35.0,36,12.95625,2015-09-01,53,
+2015-09-01,2015,1,I,False,15/16,Michail Antonio,Centre-Forward,England,Championship,Nottm Forest ,England,Premier League,West Ham United,25.0,2.5,9.5,21.0,24,12.95625,2015-09-01,0,
+2015-07-01,2015,1,E,False,15/16,Pedro Obiang,Central Midfield,Italy,Serie A,Sampdoria ,England,Premier League,West Ham United,23.0,8.0,6.0,0.0,0,12.95625,2015-09-01,62,60.0
+2015-09-01,2015,1,I,False,15/16,Nikica Jelavic,Centre-Forward,England,Championship,Hull City ,England,Premier League,West Ham United,30.0,6.5,4.1,21.0,24,12.95625,2015-09-01,0,
+2015-07-01,2015,1,E,False,15/16,Stephen Hendrie,Left-Back,Scotland,Scottish Premiership,Hamilton Acad. ,England,Premier League,West Ham United,20.0,1.0,1.3,0.0,0,12.95625,2015-09-01,62,60.0
+2015-07-20,2015,1,E,False,15/16,Jonathan Kodjia,Centre-Forward,France,Ligue 1,SCO Angers ,England,Championship,Bristol City,25.0,2.0,3.0,11.0,12,2.5118965517241385,2015-09-01,43,
+2015-08-06,2015,1,I,False,15/16,Ryan Fredericks,Right-Back,England,Premier League,Spurs ,England,Championship,Bristol City,22.0,0.25,0.25,10.0,12,2.5118965517241385,2015-09-01,26,
+2015-07-07,2015,1,I,True,15/16,Iago Aspas,Centre-Forward,Spain,Primera División,Sevilla FC ,Spain,Primera División,Celta de Vigo,27.0,4.0,5.3,59.0,60,4.7318181818181815,2015-08-31,55,60.0
+2015-07-01,2015,1,E,False,15/16,Daniel Wass,Right-Back,France,Ligue 2,Thonon Évian ,Spain,Primera División,Celta de Vigo,26.0,5.0,3.0,11.0,12,4.7318181818181815,2015-08-31,61,60.0
+2015-08-07,2015,1,E,False,15/16,Dejan Drazic,Left Winger,Serbia,SuperLiga,OFK Beograd ,Spain,Primera División,Celta de Vigo,19.0,0.9,1.2,16.0,18,4.7318181818181815,2015-08-31,24,
+2015-08-14,2015,1,E,False,15/16,Nikola Kalinic,Centre-Forward,Ukraine,Premier Liga,Dnipro ,Italy,Serie A,ACF Fiorentina,27.0,7.0,5.5,52.0,54,4.971666666666667,2015-08-31,17,
+2015-07-22,2015,1,E,False,15/16,Mario Suárez,Defensive Midfield,Spain,Primera División,Atlético Madrid ,Italy,Serie A,ACF Fiorentina,28.0,10.0,5.0,0.0,0,4.971666666666667,2015-08-31,40,
+2015-08-24,2015,1,E,False,15/16,Jaime Báez,Left Winger,Uruguay,Primera Division Clausura,Juventud ,Italy,Serie A,ACF Fiorentina,20.0,2.5,2.3,0.0,0,4.971666666666667,2015-08-31,7,
+2015-07-22,2015,1,E,False,15/16,Gilberto,Right-Back,Brazil,Campeonato Brasileiro Série B,Botafogo ,Italy,Serie A,ACF Fiorentina,22.0,1.7,2.0,0.0,0,4.971666666666667,2015-08-31,40,
+2015-07-01,2015,1,I,False,15/16,Luca Bittante,Right-Back,Italy,Serie B,Avellino ,Italy,Serie A,ACF Fiorentina,21.0,1.3,0.5,0.0,0,4.971666666666667,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Sébastien Haller,Centre-Forward,France,Ligue 2,AJ Auxerre ,Netherlands,Eredivisie,FC Utrecht,21.0,2.0,0.75,23.0,24,0.5153846153846154,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Timo Letschert,Centre-Back,Netherlands,Eredivisie,Roda JC ,Netherlands,Eredivisie,FC Utrecht,22.0,0.55,0.2,11.0,12,0.5153846153846154,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Sjoerd Overgoor,Central Midfield,Netherlands,Jupiler League,Go Ahead Eagles ,Netherlands,Eredivisie,SC Cambuur-Leeuwarden,26.0,0.75,0.075,23.0,24,0.075,2015-08-31,61,60.0
+2015-08-26,2015,1,E,False,15/16,Takashi Inui,Left Winger,Germany,1.Bundesliga,E. Frankfurt ,Spain,Primera División,SD Eibar,27.0,2.5,0.5,0.0,0,1.9326086956521733,2015-08-31,5,
+2015-08-26,2015,1,I,True,15/16,Asier Illarramendi,Defensive Midfield,Spain,Primera División,Real Madrid ,Spain,Primera División,Real Sociedad,25.0,15.0,15.0,46.0,48,7.139285714285713,2015-08-31,5,
+2015-07-27,2015,1,I,False,15/16,Jonathas,Centre-Forward,Spain,Segunda División,Elche CF ,Spain,Primera División,Real Sociedad,26.0,6.0,7.2,11.0,12,7.139285714285713,2015-08-31,35,
+2015-07-04,2015,1,I,False,15/16,David Concha,Right Winger,Spain,Segunda División B - Grupo I,Racing ,Spain,Primera División,Real Sociedad,18.0,1e-06,1.0,23.0,24,7.139285714285713,2015-08-31,58,60.0
+2015-07-15,2015,1,E,False,15/16,Jonathan Viera,Attacking Midfield,Belgium,Jupiler Pro League,Standard Liège ,Spain,Primera División,UD Las Palmas,25.0,3.5,2.9,11.0,12,1.525,2015-08-31,47,
+2015-07-01,2015,1,E,True,15/16,Sergio Araujo,Centre-Forward,Argentina,Primera División,Boca Juniors ,Spain,Primera División,UD Las Palmas,23.0,3.0,2.5,0.0,0,1.525,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Alfredo Ortuño,Centre-Forward,Spain,Primera División,Granada CF ,Spain,Primera División,UD Las Palmas,24.0,1.0,1.0,35.0,36,1.525,2015-08-31,61,60.0
+2015-07-15,2015,1,E,False,15/16,Gastón Pereiro,Attacking Midfield,Uruguay,Primera Division Clausura,Nacional ,Netherlands,Eredivisie,PSV Eindhoven,20.0,7.0,7.0,0.0,0,5.154166666666666,2015-08-31,47,
+2015-07-13,2015,1,I,True,15/16,Davy Pröpper,Central Midfield,Netherlands,Eredivisie,Vitesse ,Netherlands,Eredivisie,PSV Eindhoven,23.0,5.0,4.5,23.0,24,5.154166666666666,2015-08-31,49,
+2015-08-15,2015,1,E,False,15/16,Héctor Moreno,Centre-Back,Spain,Primera División,Espanyol ,Netherlands,Eredivisie,PSV Eindhoven,27.0,6.5,3.5,0.0,0,5.154166666666666,2015-08-31,16,
+2015-07-01,2015,1,E,False,15/16,Andrés Guardado,Central Midfield,Spain,Primera División,Valencia ,Netherlands,Eredivisie,PSV Eindhoven,28.0,7.5,2.8,11.0,12,5.154166666666666,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Nicolas Isimat-Mirin,Centre-Back,France,Ligue 1,Monaco ,Netherlands,Eredivisie,PSV Eindhoven,23.0,3.0,2.4,23.0,24,5.154166666666666,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Luuk Koopmans,Goalkeeper,Netherlands,Jupiler League,FC Oss ,Netherlands,Eredivisie,PSV Eindhoven,21.0,0.1,0.1,11.0,12,5.154166666666666,2015-08-31,61,60.0
+2015-07-21,2015,1,I,True,15/16,Allan,Central Midfield,Italy,Serie A,Udinese Calcio ,Italy,Serie A,SSC Napoli,24.0,11.5,11.5,0.0,0,12.659642857142856,2015-08-31,41,
+2015-07-30,2015,1,E,False,15/16,Vlad Chiricheș,Centre-Back,England,Premier League,Spurs ,Italy,Serie A,SSC Napoli,25.0,6.0,7.0,35.0,36,12.659642857142856,2015-08-31,32,
+2015-07-01,2015,1,I,True,15/16,Mirko Valdifiori,Defensive Midfield,Italy,Serie A,FC Empoli ,Italy,Serie A,SSC Napoli,29.0,6.0,5.5,0.0,0,12.659642857142856,2015-08-31,61,60.0
+2015-08-02,2015,1,I,True,15/16,Elseid Hysaj,Right-Back,Italy,Serie A,FC Empoli ,Italy,Serie A,SSC Napoli,21.0,4.5,5.0,10.0,12,12.659642857142856,2015-08-31,29,
+2015-07-01,2015,1,E,False,15/16,Pepe Reina,Goalkeeper,Germany,1.Bundesliga,Bayern Munich  ,Italy,Serie A,SSC Napoli,,3.0,2.0,23.0,24,12.659642857142856,2015-08-31,61,60.0
+2015-08-09,2015,1,I,False,15/16,Raffaele Maiello,Defensive Midfield,Italy,Serie B,Crotone ,Italy,Serie A,SSC Napoli,24.0,1.5,1.5,0.0,0,12.659642857142856,2015-08-31,22,
+2015-07-01,2015,1,I,False,15/16,Jacopo Dezi,Central Midfield,Italy,Serie B,Crotone ,Italy,Serie A,SSC Napoli,23.0,1.3,0.3,0.0,0,12.659642857142856,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Rodrigo,Centre-Forward,Portugal,Primeira Liga,Benfica ,Spain,Primera División,Valencia CF,24.0,18.0,30.0,47.0,48,13.087096774193547,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Álvaro Negredo,Centre-Forward,England,Premier League,Man City ,Spain,Primera División,Valencia CF,29.0,18.0,28.0,23.0,24,13.087096774193547,2015-08-31,61,60.0
+2015-08-29,2015,1,E,False,15/16,Aymen Abdennour,Centre-Back,France,Ligue 1,Monaco ,Spain,Primera División,Valencia CF,26.0,10.0,22.0,46.0,48,13.087096774193547,2015-08-31,2,
+2015-07-01,2015,1,E,False,15/16,André Gomes,Central Midfield,Portugal,Primeira Liga,Benfica ,Spain,Primera División,Valencia CF,21.0,20.0,20.0,11.0,12,13.087096774193547,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,João Cancelo,Right-Back,Portugal,Primeira Liga,Benfica ,Spain,Primera División,Valencia CF,21.0,5.0,15.0,35.0,36,13.087096774193547,2015-08-31,61,60.0
+2015-07-04,2015,1,I,True,15/16,Santi Mina,Centre-Forward,Spain,Primera División,Celta de Vigo ,Spain,Primera División,Valencia CF,19.0,4.0,10.0,35.0,36,13.087096774193547,2015-08-31,58,60.0
+2015-08-27,2015,1,E,False,15/16,Aderllan Santos,Centre-Back,Portugal,Primeira Liga,Braga ,Spain,Primera División,Valencia CF,26.0,7.5,9.5,0.0,0,13.087096774193547,2015-08-31,4,
+2015-07-21,2015,1,E,False,15/16,Mathew Ryan,Goalkeeper,Belgium,Jupiler Pro League,Club Brugge ,Spain,Primera División,Valencia CF,23.0,7.0,7.0,11.0,12,13.087096774193547,2015-08-31,41,
+2015-07-01,2015,1,I,True,15/16,Yoel Rodríguez,Goalkeeper,Spain,Primera División,Celta de Vigo ,Spain,Primera División,Valencia CF,26.0,2.5,2.0,0.0,0,13.087096774193547,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Paulo Dybala,Second Striker,Italy,Serie A,US Palermo ,Italy,Serie A,Juventus FC,21.0,28.0,40.0,11.0,12,22.61302173913043,2015-08-31,61,60.0
+2015-08-20,2015,1,E,False,15/16,Alex Sandro,Left-Back,Portugal,Primeira Liga,FC Porto ,Italy,Serie A,Juventus FC,24.0,20.0,26.0,10.0,12,22.61302173913043,2015-08-31,11,
+2015-07-07,2015,1,I,True,15/16,Simone Zaza,Centre-Forward,Italy,Serie A,Sassuolo ,Italy,Serie A,Juventus FC,24.0,11.0,18.0,47.0,48,22.61302173913043,2015-08-31,55,60.0
+2015-07-01,2015,1,I,True,15/16,Roberto Pereyra,Attacking Midfield,Italy,Serie A,Udinese Calcio ,Italy,Serie A,Juventus FC,24.0,17.0,15.0,11.0,12,22.61302173913043,2015-08-31,61,60.0
+2015-08-31,2015,1,I,True,15/16,Hernanes,Attacking Midfield,Italy,Serie A,Inter ,Italy,Serie A,Juventus FC,30.0,14.0,13.0,33.0,36,22.61302173913043,2015-08-31,0,
+2015-07-01,2015,1,I,False,15/16,Alberto Brignoli,Goalkeeper,Italy,Serie B,Ternana ,Italy,Serie A,Juventus FC,23.0,1.5,2.35,0.0,0,22.61302173913043,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Eric Lanini,Centre-Forward,Italy,Serie A,US Palermo ,Italy,Serie A,Juventus FC,21.0,0.25,2.0,0.0,0,22.61302173913043,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Andrés Tello,Central Midfield,Colombia,Liga Postobon II,Envigado ,Italy,Serie A,Juventus FC,18.0,0.5,1.6,0.0,0,22.61302173913043,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Mame Thiam,Left Winger,Italy,Serie B,Virtus Lanciano ,Italy,Serie A,Juventus FC,22.0,0.7,1.4,0.0,0,22.61302173913043,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Joyce Anacoura,Goalkeeper,Italy,Serie D - Girone D,Parma ,Italy,Serie A,Juventus FC,20.0,0.125,0.75,0.0,0,22.61302173913043,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Gregorio Luperini,Central Midfield,Italy,Prima Divisione - B,Pontedera ,Italy,Serie A,Juventus FC,21.0,0.275,0.099,23.0,24,22.61302173913043,2015-08-31,61,60.0
+2015-08-30,2015,1,E,False,15/16,Kevin De Bruyne,Attacking Midfield,Germany,1.Bundesliga,VfL Wolfsburg ,England,Premier League,Manchester City,24.0,45.0,76.0,46.0,48,23.970937499999994,2015-09-01,2,
+2015-07-14,2015,1,I,True,15/16,Raheem Sterling,Left Winger,England,Premier League,Liverpool ,England,Premier League,Manchester City,20.0,40.0,63.7,23.0,24,23.970937499999994,2015-09-01,49,
+2015-08-20,2015,1,E,False,15/16,Nicolás Otamendi,Centre-Back,Spain,Primera División,Valencia ,England,Premier League,Manchester City,27.0,25.0,44.5,46.0,48,23.970937499999994,2015-09-01,12,
+2015-07-17,2015,1,I,True,15/16,Fabian Delph,Central Midfield,England,Premier League,Aston Villa ,England,Premier League,Manchester City,25.0,10.0,11.5,47.0,48,23.970937499999994,2015-09-01,46,
+2015-07-19,2015,1,I,False,15/16,Patrick Roberts,Right Winger,England,Championship,Fulham ,England,Premier League,Manchester City,18.0,2.5,7.2,11.0,12,23.970937499999994,2015-09-01,44,
+2015-07-06,2015,1,E,False,15/16,Enes Ünal,Centre-Forward,Turkey,Süper Lig,Bursaspor ,England,Premier League,Manchester City,18.0,3.2,4.4,11.0,12,23.970937499999994,2015-09-01,57,60.0
+2015-08-28,2015,1,E,False,15/16,Florian Lejeune,Centre-Back,Spain,Segunda División,Girona ,England,Premier League,Manchester City,24.0,0.8,0.3,10.0,12,23.970937499999994,2015-09-01,4,
+2015-08-28,2015,1,E,False,15/16,Rubén Sobrino,Centre-Forward,Spain,Segunda División,Ponferradina ,England,Premier League,Manchester City,23.0,0.5,0.275,0.0,0,23.970937499999994,2015-09-01,4,
+2015-07-31,2015,1,E,False,15/16,Jonas Knudsen,Left-Back,Denmark,Superligaen,Esbjerg fB ,England,Championship,Ipswich Town,22.0,0.75,0.5,10.0,12,0.7034615384615385,2015-09-01,32,
+2015-08-28,2015,1,E,False,15/16,Piotr Malarczyk,Centre-Back,Poland,Ekstraklasa,Korona Kielce ,England,Championship,Ipswich Town,24.0,0.45,0.013,10.0,12,0.7034615384615385,2015-09-01,4,
+2015-07-01,2015,1,I,True,15/16,Riccardo Saponara,Attacking Midfield,Italy,Serie A,AC Milan ,Italy,Serie A,FC Empoli,23.0,8.0,4.0,35.0,36,2.1333333333333333,2015-08-31,61,60.0
+2015-07-17,2015,1,I,True,15/16,Luca Bittante,Right-Back,Italy,Serie A,Fiorentina ,Italy,Serie A,FC Empoli,21.0,1.3,0.8,0.0,0,2.1333333333333333,2015-08-31,45,
+2015-07-24,2015,1,I,True,15/16,Michele Camporese,Centre-Back,Italy,Serie A,Fiorentina ,Italy,Serie A,FC Empoli,23.0,1.2,0.5,11.0,12,2.1333333333333333,2015-08-31,38,
+2015-07-17,2015,1,E,False,15/16,Iván Piris,Right-Back,Uruguay,Segunda División Profesional - Segunda Etapa,Maldonado ,Italy,Serie A,Udinese Calcio,26.0,2.3,3.5,0.0,0,3.2502820512820514,2015-08-31,45,
+2015-07-01,2015,1,E,False,15/16,Ali Adnan,Left-Back,Turkey,Süper Lig,C. Rizespor ,Italy,Serie A,Udinese Calcio,21.0,2.25,2.2,35.0,36,3.2502820512820514,2015-08-31,61,60.0
+2015-07-01,2015,1,unknown,False,15/16,Adalberto Peñaranda,Centre-Forward,Unknown,Unknown,Dep. La Guaira ,Italy,Serie A,Udinese Calcio,18.0,0.00077,0.77,23.0,24,3.2502820512820514,2015-07-02,1,
+2015-08-18,2015,1,I,True,15/16,Marquinho,Attacking Midfield,Italy,Serie A,AS Roma ,Italy,Serie A,Udinese Calcio,29.0,2.0,0.5,0.0,0,3.2502820512820514,2015-08-31,13,
+2015-08-06,2015,1,E,False,15/16,Sergej Milinkovic-Savic,Central Midfield,Belgium,Jupiler Pro League,KRC Genk ,Italy,Serie A,SS Lazio,20.0,4.0,18.0,46.0,48,5.510972972972971,2015-08-31,25,
+2015-07-01,2015,1,I,True,15/16,Dusan Basta,Right-Back,Italy,Serie A,Udinese Calcio ,Italy,Serie A,SS Lazio,30.0,5.5,10.5,0.0,0,5.510972972972971,2015-08-31,61,60.0
+2015-07-28,2015,1,E,False,15/16,Ricardo Kishna,Left Winger,Netherlands,Eredivisie,Ajax ,Italy,Serie A,SS Lazio,20.0,2.75,3.0,11.0,12,5.510972972972971,2015-08-31,34,
+2015-07-01,2015,1,E,False,15/16,Maurício,Centre-Back,Portugal,Primeira Liga,Sporting CP ,Italy,Serie A,SS Lazio,26.0,4.5,2.65,35.0,36,5.510972972972971,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Patric,Centre-Back,Spain,Segunda División B - Grupo III,FC Barcelona B ,Italy,Serie A,SS Lazio,22.0,0.8,0.5,0.0,0,5.510972972972971,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Fabian Frei,Defensive Midfield,Switzerland,Raiffeisen Super League,FC Basel ,Germany,1.Bundesliga,1.FSV Mainz 05,26.0,5.0,3.6,0.0,0,3.6159375,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Yoshinori Muto,Centre-Forward,Japan,J. League Division 1 – Second Stage,FC Tokyo ,Germany,1.Bundesliga,1.FSV Mainz 05,22.0,2.5,2.8,0.0,0,3.6159375,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Florian Niederlechner,Centre-Forward,Germany,2.Bundesliga,1.FC Heidenheim ,Germany,1.Bundesliga,1.FSV Mainz 05,24.0,2.0,2.0,11.0,12,3.6159375,2015-08-31,61,60.0
+2015-08-30,2015,1,E,False,15/16,Gaëtan Bussmann,Left-Back,France,Ligue 2,FC Metz ,Germany,1.Bundesliga,1.FSV Mainz 05,24.0,2.0,1.0,0.0,0,3.6159375,2015-08-31,1,
+2015-07-12,2015,1,I,False,15/16,Besar Halimi,Attacking Midfield,Germany,3.Liga,Stuttg. Kickers ,Germany,1.Bundesliga,1.FSV Mainz 05,20.0,0.7,0.35,11.0,12,3.6159375,2015-08-31,50,
+2015-07-03,2015,1,I,True,15/16,Conor Coady,Centre-Back,England,Championship,Huddersfield ,England,Championship,Wolverhampton Wanderers,22.0,0.75,2.8,23.0,24,9.116761904761905,2015-09-01,60,60.0
+2015-09-01,2015,1,I,False,15/16,Nathan Byrne,Right-Back,England,League One,Swindon Town ,England,Championship,Wolverhampton Wanderers,23.0,0.3,1.35,0.0,0,9.116761904761905,2015-09-01,0,
+2015-07-01,2015,1,I,False,15/16,Jed Wallace,Right Winger,England,League Two,Portsmouth ,England,Championship,Wolverhampton Wanderers,21.0,0.1,0.387,23.0,24,9.116761904761905,2015-09-01,62,60.0
+2015-08-18,2015,1,I,True,15/16,Andrea Belotti,Centre-Forward,Italy,Serie A,US Palermo ,Italy,Serie A,Torino FC,21.0,5.0,8.4,0.0,0,5.3751428571428574,2015-08-31,13,
+2015-07-10,2015,1,I,True,15/16,Daniele Baselli,Central Midfield,Italy,Serie A,Atalanta ,Italy,Serie A,Torino FC,23.0,3.8,6.0,0.0,0,5.3751428571428574,2015-08-31,52,
+2015-07-10,2015,1,I,True,15/16,Davide Zappacosta,Right Midfield,Italy,Serie A,Atalanta ,Italy,Serie A,Torino FC,23.0,5.5,4.3,0.0,0,5.3751428571428574,2015-08-31,52,
+2015-07-01,2015,1,E,False,15/16,Afriyie Acquah,Central Midfield,Germany,1.Bundesliga,TSG Hoffenheim ,Italy,Serie A,Torino FC,23.0,3.0,3.1,23.0,24,5.3751428571428574,2015-08-31,61,60.0
+2015-07-02,2015,1,I,True,15/16,Joel Obi,Central Midfield,Italy,Serie A,Inter ,Italy,Serie A,Torino FC,24.0,2.0,2.2,23.0,24,5.3751428571428574,2015-08-31,60,60.0
+2015-07-01,2015,1,I,False,15/16,Danilo Avelar,Centre-Back,Italy,Serie B,Cagliari Calcio ,Italy,Serie A,Torino FC,26.0,2.5,2.0,0.0,0,5.3751428571428574,2015-08-31,61,60.0
+2015-07-18,2015,1,E,False,15/16,Salvador Ichazo,Goalkeeper,Uruguay,Primera Division Clausura,Danubio FC ,Italy,Serie A,Torino FC,23.0,1.6,1.2,0.0,0,5.3751428571428574,2015-08-31,44,
+2015-07-01,2015,1,I,True,15/16,Luis Muriel,Centre-Forward,Italy,Serie A,Udinese Calcio ,Italy,Serie A,UC Sampdoria,24.0,10.0,12.0,35.0,36,4.774423076923077,2015-08-31,61,60.0
+2015-07-06,2015,1,E,False,15/16,Fernando,Defensive Midfield,Ukraine,Premier Liga,Shakhtar D. ,Italy,Serie A,UC Sampdoria,23.0,9.0,8.0,35.0,36,4.774423076923077,2015-08-31,56,60.0
+2015-07-16,2015,1,I,True,15/16,Ervin Zukanovic,Centre-Back,Italy,Serie A,Chievo Verona ,Italy,Serie A,UC Sampdoria,28.0,3.5,3.28,0.0,0,4.774423076923077,2015-08-31,46,
+2015-07-01,2015,1,I,False,15/16,Lucas Torreira,Central Midfield,Italy,Serie B,Pescara ,Italy,Serie A,UC Sampdoria,19.0,0.8,3.0,83.0,84,4.774423076923077,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Alfred Duncan,Central Midfield,Italy,Serie A,Inter ,Italy,Serie A,UC Sampdoria,22.0,5.0,2.6,0.0,0,4.774423076923077,2015-08-31,61,60.0
+2015-08-31,2015,1,I,False,15/16,Michele Rocca,Central Midfield,Italy,Campionato Primavera Girone B,Inter U19 ,Italy,Serie A,UC Sampdoria,19.0,0.25,0.4,0.0,0,4.774423076923077,2015-08-31,0,
+2015-07-02,2015,1,unknown,False,15/16,Pedro Pereira,Right Midfield,Unknown,Unknown,Benfica U17 ,Italy,Serie A,UC Sampdoria,,0.2,0.19,0.0,0,4.774423076923077,2015-07-02,0,
+2015-08-20,2015,1,I,True,15/16,Mattia Destro,Centre-Forward,Italy,Serie A,AS Roma ,Italy,Serie A,Bologna FC 1909,24.0,13.0,8.5,22.0,24,3.44095744680851,2015-08-31,11,
+2015-07-01,2015,1,I,True,15/16,Ibrahima Mbaye,Right-Back,Italy,Serie A,Inter ,Italy,Serie A,Bologna FC 1909,20.0,4.0,3.5,23.0,24,3.44095744680851,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Luca Rossettini,Centre-Back,Italy,Serie B,Cagliari Calcio ,Italy,Serie A,Bologna FC 1909,30.0,2.0,2.5,0.0,0,3.44095744680851,2015-08-31,61,60.0
+2015-08-07,2015,1,E,False,15/16,Erick Pulgar,Defensive Midfield,Chile,Primera División Clausura,CDUC ,Italy,Serie A,Bologna FC 1909,21.0,2.0,2.28,22.0,24,3.44095744680851,2015-08-31,24,
+2015-08-29,2015,1,E,False,15/16,Anthony Mounier,Left Winger,France,Ligue 1,Montpellier ,Italy,Serie A,Bologna FC 1909,27.0,4.5,2.0,10.0,12,3.44095744680851,2015-08-31,2,
+2015-08-20,2015,1,I,False,15/16,Marco Crimi,Central Midfield,Italy,Serie B,Latina Calcio ,Italy,Serie A,Bologna FC 1909,25.0,1.1,1.0,10.0,12,3.44095744680851,2015-08-31,11,
+2015-07-01,2015,1,I,False,15/16,Amadou Diawara,Defensive Midfield,Italy,Serie D - Girone D,San Marino ,Italy,Serie A,Bologna FC 1909,,0.4,0.6,0.0,0,3.44095744680851,2015-08-31,61,60.0
+2015-08-21,2015,1,E,False,15/16,Emil Krafth,Right-Back,Sweden,Allsvenskan,Helsingborg ,Italy,Serie A,Bologna FC 1909,21.0,0.9,0.5,10.0,12,3.44095744680851,2015-08-31,10,
+2015-08-24,2015,1,E,False,15/16,Eduardo Vargas,Second Striker,Italy,Serie A,SSC Napoli ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,25.0,6.0,6.0,22.0,24,4.8136875,2015-08-31,7,
+2015-07-01,2015,1,E,False,15/16,Fabian Schär,Centre-Back,Switzerland,Raiffeisen Super League,FC Basel ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,23.0,8.0,4.0,11.0,12,4.8136875,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Jonathan Schmid,Right-Back,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,25.0,4.5,3.5,11.0,12,4.8136875,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Pavel Kaderabek,Right-Back,Czech Republic,Gambrinus Liga,Sparta Praha ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,23.0,3.5,3.5,35.0,36,4.8136875,2015-08-31,61,60.0
+2015-07-02,2015,1,E,False,15/16,Mark Uth,Second Striker,Netherlands,Eredivisie,Heerenveen ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,23.0,2.5,2.2,11.0,12,4.8136875,2015-08-31,60,60.0
+2015-07-01,2015,1,E,False,15/16,Joelinton,Centre-Forward,Brazil,Campeonato Brasileiro Série A,Sport Recife ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,18.0,1.25,2.2,54.0,54,4.8136875,2015-08-31,61,60.0
+2015-08-25,2015,1,E,False,15/16,Felipe Pires,Left Winger,Austria,Bundesliga,RB Salzburg ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,20.0,0.5,1.0,10.0,12,4.8136875,2015-08-31,6,
+2015-07-01,2015,1,I,False,15/16,Antonio Colak,Centre-Forward,Germany,2.Bundesliga,1.FC Nuremberg ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,21.0,0.6,0.5,11.0,12,4.8136875,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Marko Maric,Goalkeeper,Austria,Bundesliga,Rapid Vienna ,Germany,1.Bundesliga,TSG 1899 Hoffenheim,19.0,0.4,0.5,11.0,12,4.8136875,2015-08-31,61,60.0
+2015-07-06,2015,1,I,True,15/16,Étienne Capoue,Defensive Midfield,England,Premier League,Spurs ,England,Premier League,Watford FC,26.0,7.5,8.9,23.0,24,7.358684210526317,2015-09-01,57,60.0
+2015-07-01,2015,1,E,False,15/16,Matej Vydra,Centre-Forward,Italy,Serie A,Udinese Calcio ,England,Premier League,Watford FC,23.0,5.5,8.4,0.0,0,7.358684210526317,2015-09-01,62,60.0
+2015-09-01,2015,1,E,False,15/16,Obbi Oulare,Centre-Forward,Belgium,Jupiler Pro League,Club Brugge ,England,Premier League,Watford FC,19.0,5.0,8.23,33.0,36,7.358684210526317,2015-09-01,0,
+2015-07-27,2015,1,E,False,15/16,Steven Berghuis,Right Winger,Netherlands,Eredivisie,AZ Alkmaar ,England,Premier League,Watford FC,23.0,3.5,6.5,0.0,0,7.358684210526317,2015-09-01,36,
+2015-07-11,2015,1,E,False,15/16,Valon Behrami,Defensive Midfield,Germany,1.Bundesliga,Hamburger SV ,England,Premier League,Watford FC,30.0,3.5,3.5,23.0,24,7.358684210526317,2015-09-01,52,
+2015-07-02,2015,1,E,False,15/16,Jose Cholevas,Left-Back,Italy,Serie A,AS Roma ,England,Premier League,Watford FC,,2.0,2.5,23.0,24,7.358684210526317,2015-09-01,61,60.0
+2015-07-01,2015,1,I,True,15/16,Mitchell Langerak,Goalkeeper,Germany,1.Bundesliga,Bor. Dortmund ,Germany,1.Bundesliga,VfB Stuttgart,26.0,2.5,3.5,11.0,12,3.664814814814816,2015-08-31,61,60.0
+2015-08-27,2015,1,E,False,15/16,Toni Sunjic,Centre-Back,Russia,Premier Liga,Kuban Krasnodar ,Germany,1.Bundesliga,VfB Stuttgart,26.0,2.8,3.0,22.0,24,3.664814814814816,2015-08-31,4,
+2015-07-01,2015,1,I,False,15/16,Joshua Kimmich,Defensive Midfield,Germany,2.Bundesliga,RB Leipzig ,Germany,1.Bundesliga,VfB Stuttgart,20.0,5.0,1.5,0.0,0,3.664814814814816,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Jan Kliment,Centre-Forward,Czech Republic,Gambrinus Liga,FC Vysocina ,Germany,1.Bundesliga,VfB Stuttgart,21.0,0.75,1.5,0.0,0,3.664814814814816,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Przemyslaw Tyton,Goalkeeper,Netherlands,Eredivisie,PSV Eindhoven ,Germany,1.Bundesliga,VfB Stuttgart,28.0,2.5,1.0,11.0,12,3.664814814814816,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Philip Heise,Left-Back,Germany,2.Bundesliga,1.FC Heidenheim ,Germany,1.Bundesliga,VfB Stuttgart,24.0,0.8,0.75,23.0,24,3.664814814814816,2015-08-31,61,60.0
+2015-07-02,2015,1,E,False,15/16,Andreas Bjelland,Centre-Back,Netherlands,Eredivisie,Twente FC ,England,Championship,Brentford FC,26.0,3.0,2.5,11.0,12,2.338,2015-09-01,61,60.0
+2015-07-23,2015,1,E,False,15/16,Philipp Hofmann,Centre-Forward,Germany,2.Bundesliga,1.FC K'lautern ,England,Championship,Brentford FC,22.0,1.0,2.0,23.0,24,2.338,2015-09-01,40,
+2015-08-14,2015,1,E,False,15/16,Maxime Colin,Right-Back,Belgium,Jupiler Pro League,RSC Anderlecht ,England,Championship,Brentford FC,23.0,1.5,1.5,22.0,24,2.338,2015-09-01,18,
+2015-09-01,2015,1,I,False,15/16,Ryan Woods,Defensive Midfield,England,League One,Shrewsbury ,England,Championship,Brentford FC,21.0,0.05,1.35,0.0,0,2.338,2015-09-01,0,
+2015-07-24,2015,1,E,False,15/16,Lasse Vibe,Centre-Forward,Sweden,Allsvenskan,IFK Göteborg ,England,Championship,Brentford FC,28.0,2.0,1.3,11.0,12,2.338,2015-09-01,39,
+2015-07-10,2015,1,I,False,15/16,Josh McEachran,Central Midfield,England,Premier League,Chelsea ,England,Championship,Brentford FC,22.0,2.0,1.04,11.0,12,2.338,2015-09-01,53,
+2015-07-01,2015,1,E,False,15/16,Yoann Barbet,Centre-Back,France,Ligue 2,Chamois Niort ,England,Championship,Brentford FC,22.0,0.3,0.7,0.0,0,2.338,2015-09-01,62,60.0
+2015-07-13,2015,1,E,False,15/16,Oscar Hiljemark,Central Midfield,Netherlands,Eredivisie,PSV Eindhoven ,Italy,Serie A,US Palermo,23.0,2.25,2.5,24.0,24,1.362,2015-08-31,49,
+2015-07-28,2015,1,E,False,15/16,Abdelhamid El Kaoutari,Centre-Back,France,Ligue 1,Montpellier ,Italy,Serie A,US Palermo,25.0,4.0,2.0,11.0,12,1.362,2015-08-31,34,
+2015-07-01,2015,1,I,True,15/16,Edoardo Goldaniga,Centre-Back,Italy,Serie A,Juventus ,Italy,Serie A,US Palermo,21.0,0.8,1.5,0.0,0,1.362,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Matheus Cassini,Attacking Midfield,Brazil,Campeonato Brasileiro Série A,Corinthians ,Italy,Serie A,US Palermo,19.0,0.25,1.5,0.0,0,1.362,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Aleksandar Trajkovski,Left Winger,Belgium,Jupiler Pro League,Zulte Waregem ,Italy,Serie A,US Palermo,22.0,1.2,0.9,0.0,0,1.362,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Federico Viviani,Defensive Midfield,Italy,Serie A,AS Roma ,Italy,Serie A,Hellas Verona,23.0,2.8,4.0,23.0,24,1.5886296296296294,2015-08-31,61,60.0
+2015-07-22,2015,1,E,False,15/16,Filip Helander,Centre-Back,Sweden,Allsvenskan,Malmö FF ,Italy,Serie A,Hellas Verona,22.0,1.5,1.0,5.0,6,1.5886296296296294,2015-08-31,40,
+2015-07-01,2015,1,I,True,15/16,Eros Pisano,Right-Back,Italy,Serie A,US Palermo ,Italy,Serie A,Hellas Verona,28.0,0.5,1.0,11.0,12,1.5886296296296294,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Leandro Greco,Central Midfield,Italy,Serie A,Genoa ,Italy,Serie A,Hellas Verona,28.0,2.5,0.3,23.0,24,1.5886296296296294,2015-08-31,61,60.0
+2015-08-13,2015,1,E,False,15/16,Charles Aránguiz,Central Midfield,Brazil,Campeonato Brasileiro Série A,Internacional ,Germany,1.Bundesliga,Bayer 04 Leverkusen,26.0,9.5,13.0,34.0,36,12.18888888888889,2015-08-31,18,
+2015-08-31,2015,1,E,False,15/16,Chicharito,Centre-Forward,England,Premier League,Man Utd ,Germany,1.Bundesliga,Bayer 04 Leverkusen,27.0,10.0,12.0,9.0,12,12.18888888888889,2015-08-31,0,
+2015-08-28,2015,1,I,True,15/16,Kevin Kampl,Central Midfield,Germany,1.Bundesliga,Bor. Dortmund ,Germany,1.Bundesliga,Bayer 04 Leverkusen,24.0,9.0,11.0,46.0,48,12.18888888888889,2015-08-31,3,
+2015-07-01,2015,1,I,False,15/16,Admir Mehmedi,Second Striker,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,Bayer 04 Leverkusen,24.0,6.0,8.0,47.0,48,12.18888888888889,2015-08-31,61,60.0
+2015-07-16,2015,1,I,True,15/16,Jonathan Tah,Centre-Back,Germany,1.Bundesliga,Hamburger SV ,Germany,1.Bundesliga,Bayer 04 Leverkusen,19.0,6.0,7.5,35.0,36,12.18888888888889,2015-08-31,46,
+2015-07-01,2015,1,I,True,15/16,Kyriakos Papadopoulos,Centre-Back,Germany,1.Bundesliga,FC Schalke 04 ,Germany,1.Bundesliga,Bayer 04 Leverkusen,23.0,7.5,6.5,11.0,12,12.18888888888889,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Oliver Sorg,Right-Back,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,Hannover 96,25.0,3.5,3.5,11.0,12,3.18,2015-08-31,61,60.0
+2015-07-17,2015,1,E,False,15/16,Mevlüt Erdinc,Centre-Forward,France,Ligue 1,Saint-Étienne ,Germany,1.Bundesliga,Hannover 96,28.0,4.0,3.3,23.0,24,3.18,2015-08-31,45,
+2015-07-01,2015,1,I,False,15/16,Felix Klaus,Right Winger,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,Hannover 96,22.0,3.0,3.0,23.0,24,3.18,2015-08-31,61,60.0
+2015-07-08,2015,1,E,False,15/16,Uffe Bech,Right Winger,Denmark,Superligaen,Nordsjaelland ,Germany,1.Bundesliga,Hannover 96,22.0,2.0,2.0,11.0,12,3.18,2015-08-31,54,
+2015-07-01,2015,1,I,False,15/16,Charlison Benschop,Centre-Forward,Germany,2.Bundesliga,F. Düsseldorf ,Germany,1.Bundesliga,Hannover 96,25.0,2.0,1.5,23.0,24,3.18,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Massimo Luongo,Central Midfield,England,League One,Swindon Town ,England,Championship,Queens Park Rangers,22.0,1.5,4.28,11.0,12,1.6472727272727274,2015-09-01,62,60.0
+2015-07-20,2015,1,E,False,15/16,Tjaronn Chery,Attacking Midfield,Netherlands,Eredivisie,FC Groningen ,England,Championship,Queens Park Rangers,27.0,4.0,2.34,11.0,12,1.6472727272727274,2015-09-01,43,
+2015-07-02,2015,1,E,False,15/16,Sebastian Polter,Centre-Forward,Germany,1.Bundesliga,1.FSV Mainz 05 ,England,Championship,Queens Park Rangers,24.0,1.5,2.3,23.0,24,1.6472727272727274,2015-09-01,61,60.0
+2015-08-20,2015,1,I,True,15/16,Alex Smithies,Goalkeeper,England,Championship,Huddersfield ,England,Championship,Queens Park Rangers,25.0,0.5,2.1,34.0,36,1.6472727272727274,2015-09-01,12,
+2015-07-31,2015,1,I,False,15/16,James Perch,Defensive Midfield,England,League One,Wigan ,England,Championship,Queens Park Rangers,29.0,1.5,1.4,22.0,24,1.6472727272727274,2015-09-01,32,
+2015-07-01,2015,1,I,False,15/16,Ben Gladwin,Central Midfield,England,League One,Swindon Town ,England,Championship,Queens Park Rangers,23.0,0.15,0.71,23.0,24,1.6472727272727274,2015-09-01,62,60.0
+2015-07-01,2015,1,I,True,15/16,Johannes Geis,Defensive Midfield,Germany,1.Bundesliga,1.FSV Mainz 05 ,Germany,1.Bundesliga,FC Schalke 04,21.0,11.0,10.5,23.0,24,7.628571428571428,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Matija Nastasic,Centre-Back,England,Premier League,Man City ,Germany,1.Bundesliga,FC Schalke 04,22.0,14.0,9.5,23.0,24,7.628571428571428,2015-08-31,61,60.0
+2015-07-25,2015,1,I,True,15/16,Franco Di Santo,Centre-Forward,Germany,1.Bundesliga,Werder Bremen ,Germany,1.Bundesliga,FC Schalke 04,26.0,8.5,6.0,11.0,12,7.628571428571428,2015-08-31,37,
+2015-07-01,2015,1,E,False,15/16,Júnior Caiçara,Right-Back,Bulgaria,A Grupa,Ludogorets ,Germany,1.Bundesliga,FC Schalke 04,26.0,6.0,4.5,23.0,24,7.628571428571428,2015-08-31,61,60.0
+2015-08-27,2015,1,I,False,15/16,Alexander Nübel,Goalkeeper,Germany,2.Bundesliga,SC Paderborn ,Germany,1.Bundesliga,FC Schalke 04,18.0,0.1,0.6,0.0,0,7.628571428571428,2015-08-31,4,
+2015-08-14,2015,1,E,False,15/16,Roberto Soldado,Centre-Forward,England,Premier League,Spurs ,Spain,Primera División,Villarreal CF,30.0,10.0,16.0,22.0,24,9.139705882352944,2015-08-31,17,
+2015-07-01,2015,1,I,True,15/16,Samu Castillejo,Right Winger,Spain,Primera División,Málaga CF ,Spain,Primera División,Villarreal CF,20.0,7.5,8.0,35.0,36,9.139705882352944,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Samu García,Right Winger,Spain,Primera División,Málaga CF ,Spain,Primera División,Villarreal CF,24.0,7.5,8.0,47.0,48,9.139705882352944,2015-08-31,61,60.0
+2015-08-19,2015,1,E,False,15/16,Cédric Bakambu,Centre-Forward,Turkey,Süper Lig,Bursaspor ,Spain,Primera División,Villarreal CF,24.0,5.5,7.5,34.0,36,9.139705882352944,2015-08-31,12,
+2015-08-29,2015,1,I,True,15/16,Denis Suárez,Attacking Midfield,Spain,Primera División,FC Barcelona ,Spain,Primera División,Villarreal CF,21.0,12.0,4.0,22.0,24,9.139705882352944,2015-08-31,2,
+2015-07-01,2015,1,I,True,15/16,Víctor Ruiz,Centre-Back,Spain,Primera División,Valencia ,Spain,Primera División,Villarreal CF,26.0,4.0,2.7,11.0,12,9.139705882352944,2015-08-31,61,60.0
+2015-08-29,2015,1,E,False,15/16,Sergi Darder,Central Midfield,Spain,Primera División,Málaga CF ,France,Ligue 1,Olympique Lyon,21.0,7.5,13.1,34.0,36,9.455882352941176,2015-08-31,2,0.0
+2015-08-11,2015,1,E,False,15/16,Mathieu Valbuena,Attacking Midfield,Russia,Premier Liga,Dinamo Moscow ,France,Ligue 1,Olympique Lyon,30.0,11.5,6.0,22.0,24,9.455882352941176,2015-08-31,20,
+2015-07-01,2015,1,I,True,15/16,Claudio Beauvue,Centre-Forward,France,Ligue 1,Guingamp ,France,Ligue 1,Olympique Lyon,27.0,5.0,6.0,23.0,24,9.455882352941176,2015-08-31,61,60.0
+2015-08-03,2015,1,E,False,15/16,Rafael,Right-Back,England,Premier League,Man Utd ,France,Ligue 1,Olympique Lyon,25.0,10.0,3.2,10.0,12,9.455882352941176,2015-08-31,28,
+2015-08-31,2015,1,I,False,15/16,Lucas Tousart,Defensive Midfield,France,Ligue 2,Valenciennes FC ,France,Ligue 1,Olympique Lyon,18.0,0.4,2.6,0.0,0,9.455882352941176,2015-08-31,0,0.0
+2015-08-31,2015,1,E,False,15/16,Olivier Kemen,Central Midfield,England,U21 Premier League,Newcastle U23 ,France,Ligue 1,Olympique Lyon,19.0,0.0008,0.8,0.0,0,9.455882352941176,2015-08-31,0,0.0
+2015-07-01,2015,1,E,False,15/16,Geoffrey Kondogbia,Central Midfield,France,Ligue 1,Monaco ,Italy,Serie A,Inter Milan,22.0,16.0,36.0,35.0,36,17.147674418604655,2015-08-31,61,60.0
+2015-08-30,2015,1,E,False,15/16,Ivan Perisic,Left Winger,Germany,1.Bundesliga,VfL Wolfsburg ,Italy,Serie A,Inter Milan,26.0,13.0,19.0,22.0,24,17.147674418604655,2015-08-31,1,0.0
+2015-07-01,2015,1,E,False,15/16,Xherdan Shaqiri,Right Winger,Germany,1.Bundesliga,Bayern Munich  ,Italy,Serie A,Inter Milan,23.0,17.0,15.0,11.0,12,17.147674418604655,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Jeison Murillo,Centre-Back,Spain,Primera División,Granada CF ,Italy,Serie A,Inter Milan,23.0,8.0,8.0,11.0,12,17.147674418604655,2015-08-31,61,60.0
+2015-08-31,2015,1,E,False,15/16,Felipe Melo,Defensive Midfield,Turkey,Süper Lig,Galatasaray ,Italy,Serie A,Inter Milan,,7.0,4.2,45.0,48,17.147674418604655,2015-08-31,0,0.0
+2015-07-01,2015,1,E,False,15/16,Davide Santon,Right-Back,England,Premier League,Newcastle ,Italy,Serie A,Inter Milan,24.0,7.0,3.7,11.0,12,17.147674418604655,2015-08-31,61,60.0
+2015-07-30,2015,1,I,True,15/16,Jesper Drost,Attacking Midfield,Netherlands,Eredivisie,PEC Zwolle ,Netherlands,Eredivisie,FC Groningen,22.0,1.5,1.45,23.0,24,0.7307692307692307,2015-08-31,32,
+2015-07-01,2015,1,I,True,15/16,Bryan Linssen,Left Winger,Netherlands,Eredivisie,Heracles Almelo ,Netherlands,Eredivisie,FC Groningen,24.0,1.25,0.85,11.0,12,0.7307692307692307,2015-08-31,61,60.0
+2015-08-14,2015,1,E,False,15/16,Kasper Larsen,Centre-Back,Denmark,Superligaen,Odense BK ,Netherlands,Eredivisie,FC Groningen,22.0,0.5,0.45,22.0,24,0.7307692307692307,2015-08-31,17,
+2015-08-14,2015,1,I,True,15/16,Etiënne Reijnen,Centre-Back,Netherlands,Eredivisie,SC Cambuur ,Netherlands,Eredivisie,FC Groningen,28.0,0.8,0.4,10.0,12,0.7307692307692307,2015-08-31,17,
+2015-08-07,2015,1,E,False,15/16,Nikola Stojiljkovic,Centre-Forward,Serbia,SuperLiga,Cukaricki ,Portugal,Primeira Liga,SC Braga,22.0,0.9,0.75,0.0,0,1.2598571428571428,2015-08-31,24,
+2015-07-08,2015,1,E,False,15/16,Alef,Defensive Midfield,Brazil,Campeonato Brasileiro Série A,Ponte Preta ,Portugal,Primeira Liga,SC Braga,20.0,0.25,0.75,13.0,12,1.2598571428571428,2015-08-31,54,
+2015-08-26,2015,1,I,True,15/16,Ahmed Hassan,Centre-Forward,Portugal,Primeira Liga,Rio Ave FC ,Portugal,Primeira Liga,SC Braga,22.0,4.8,0.7,0.0,0,1.2598571428571428,2015-08-26,0,0.0
+2015-07-01,2015,1,unknown,False,15/16,Crislan,Centre-Forward,Unknown,Unknown,Penapolense-SP ,Portugal,Primeira Liga,SC Braga,23.0,0.25,0.6,34.0,36,1.2598571428571428,2015-07-01,0,0.0
+2015-07-01,2015,1,unknown,False,15/16,Rodrigo Pinho,Centre-Forward,Unknown,Unknown,Madureira-RJ ,Portugal,Primeira Liga,SC Braga,24.0,0.1,0.4,0.0,0,1.2598571428571428,2015-07-01,0,0.0
+2015-07-02,2015,1,I,False,15/16,Ricardo Ferreira,Centre-Back,Portugal,Segunda Liga,Olhanense ,Portugal,Primeira Liga,SC Braga,22.0,0.4,0.3,11.0,12,1.2598571428571428,2015-08-26,55,60.0
+2015-08-28,2015,1,E,False,15/16,Arghus,Centre-Back,Slovenia,Prva Liga,NK Maribor ,Portugal,Primeira Liga,SC Braga,27.0,0.75,0.2,22.0,24,1.2598571428571428,2015-08-31,3,0.0
+2015-08-31,2015,1,E,False,15/16,Pablo,Centre-Back,Brazil,Campeonato Brasileiro Série A,Ponte Preta ,France,Ligue 1,FC Girondins Bordeaux,24.0,1.5,2.0,16.0,18,3.694,2015-08-31,0,0.0
+2015-07-22,2015,1,E,False,15/16,Milan Gajic,Right-Back,Serbia,SuperLiga,OFK Beograd ,France,Ligue 1,FC Girondins Bordeaux,19.0,0.8,1.0,17.0,18,3.694,2015-08-31,40,
+2015-07-07,2015,1,E,False,15/16,Zé Luís,Centre-Forward,Portugal,Primeira Liga,Braga ,Russia,Premier Liga,Spartak Moscow,24.0,3.5,6.5,11.0,12,5.227083333333333,2015-07-29,22,
+2015-07-01,2015,1,I,True,15/16,Ivelin Popov,Attacking Midfield,Russia,Premier Liga,Kuban Krasnodar ,Russia,Premier Liga,Spartak Moscow,27.0,9.5,6.0,0.0,0,5.227083333333333,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Youssef El Jebli,Attacking Midfield,Netherlands,Topklasse Zondag,Lienden ,Netherlands,Eredivisie,De Graafschap Doetinchem,22.0,0.05,0.05,11.0,12,0.05,2015-08-31,61,60.0
+2015-07-18,2015,1,I,False,15/16,Vladimir Darida,Central Midfield,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,Hertha BSC,24.0,5.5,3.8,35.0,36,8.236363636363636,2015-08-31,44,
+2015-08-24,2015,1,I,False,15/16,Niklas Stark,Centre-Back,Germany,2.Bundesliga,1.FC Nuremberg ,Germany,1.Bundesliga,Hertha BSC,20.0,2.0,3.0,34.0,36,8.236363636363636,2015-08-31,7,
+2015-07-01,2015,1,I,True,15/16,Sergey Tkachev,Attacking Midfield,Russia,Premier Liga,Loko Moscow ,Russia,Premier Liga,Kuban Krasnodar,26.0,2.5,1.5,23.0,24,1.5,2015-08-31,61,60.0
+2015-07-01,2015,1,E,True,15/16,Germán Pezzella,Centre-Back,Argentina,Primera División,River Plate ,Spain,Primera División,Real Betis Balompié,24.0,2.5,2.25,0.0,0,6.0,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Petros,Defensive Midfield,Brazil,Campeonato Brasileiro Série A,Corinthians ,Spain,Primera División,Real Betis Balompié,26.0,2.0,1.7,35.0,36,6.0,2015-08-31,61,60.0
+2015-08-31,2015,1,E,False,15/16,Joaquín,Right Winger,Italy,Serie A,Fiorentina ,Spain,Primera División,Real Betis Balompié,,1.0,1.5,9.0,12,6.0,2015-08-31,0,0.0
+2015-07-09,2015,1,E,False,15/16,Cristiano Piccini,Right-Back,Italy,Serie A,Fiorentina ,Spain,Primera División,Real Betis Balompié,22.0,0.7,1.5,0.0,0,6.0,2015-08-31,53,
+2015-07-01,2015,1,I,True,15/16,Francisco Portillo,Right Winger,Spain,Primera División,Málaga CF ,Spain,Primera División,Real Betis Balompié,25.0,1.5,1.0,11.0,12,6.0,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Foued Kadir,Attacking Midfield,France,Ligue 1,Marseille ,Spain,Primera División,Real Betis Balompié,31.0,1.2,0.6,11.0,12,6.0,2015-08-31,61,60.0
+2015-07-06,2015,1,unknown,False,15/16,Amro Tarek,Centre-Back,Unknown,Unknown,El Gouna ,Spain,Primera División,Real Betis Balompié,23.0,0.2,0.3,23.0,24,6.0,2015-07-06,0,0.0
+2015-07-22,2015,1,I,True,15/16,Christian Benteke,Centre-Forward,England,Premier League,Aston Villa ,England,Premier League,Liverpool FC,24.0,20.0,46.5,23.0,24,26.103120000000004,2015-09-01,41,
+2015-07-01,2015,1,E,False,15/16,Roberto Firmino,Centre-Forward,Germany,1.Bundesliga,TSG Hoffenheim ,England,Premier League,Liverpool FC,23.0,25.0,41.0,23.0,24,26.103120000000004,2015-09-01,62,60.0
+2015-07-01,2015,1,I,True,15/16,Nathaniel Clyne,Right-Back,England,Premier League,Southampton ,England,Premier League,Liverpool FC,24.0,17.0,17.7,11.0,12,26.103120000000004,2015-09-01,62,60.0
+2015-07-01,2015,1,I,False,15/16,Danny Ings,Centre-Forward,England,Championship,Burnley ,England,Premier League,Liverpool FC,22.0,12.0,8.3,11.0,12,26.103120000000004,2015-09-01,62,60.0
+2015-07-01,2015,1,I,False,15/16,Joe Gomez,Centre-Back,England,Championship,Charlton ,England,Premier League,Liverpool FC,18.0,2.5,4.9,23.0,24,26.103120000000004,2015-09-01,62,60.0
+2015-08-31,2015,1,unknown,False,15/16,Taiwo Awoniyi,Centre-Forward,Unknown,Unknown,Imperial Acad. ,England,Premier League,Liverpool FC,18.0,1.1e-06,1.1,0.0,0,26.103120000000004,2015-08-31,0,0.0
+2015-07-01,2015,1,I,False,15/16,Luca Valzania,Central Midfield,Italy,Serie B,Cesena ,Italy,Serie A,Atalanta BC,19.0,0.35,6.2,0.0,0,5.085111111111112,2015-08-31,61,60.0
+2015-08-26,2015,1,E,False,15/16,Rafael Tolói,Centre-Back,Brazil,Campeonato Brasileiro Série A,São Paulo ,Italy,Serie A,Atalanta BC,24.0,5.0,3.87,22.0,24,5.085111111111112,2015-08-31,5,0.0
+2015-07-01,2015,1,I,True,15/16,Jasmin Kurtic,Central Midfield,Italy,Serie A,Sassuolo ,Italy,Serie A,Atalanta BC,26.0,3.5,3.2,0.0,0,5.085111111111112,2015-08-31,61,60.0
+2015-07-01,2015,1,unknown,False,15/16,Franck Kessié,Central Midfield,Unknown,Unknown,Stella Club ,Italy,Serie A,Atalanta BC,18.0,0.3,1.5,23.0,24,5.085111111111112,2015-07-02,1,0.0
+2015-07-11,2015,1,E,False,15/16,Marten de Roon,Defensive Midfield,Netherlands,Eredivisie,Heerenveen ,Italy,Serie A,Atalanta BC,24.0,1.25,1.3,23.0,24,5.085111111111112,2015-08-31,51,
+2015-07-01,2015,1,I,True,15/16,Isnik Alimi,Central Midfield,Italy,Serie A,Chievo Verona ,Italy,Serie A,Atalanta BC,21.0,0.125,1.2,0.0,0,5.085111111111112,2015-08-31,61,60.0
+2015-07-18,2015,1,E,False,15/16,Boris Radunović,Goalkeeper,Serbia,SuperLiga,Rad ,Italy,Serie A,Atalanta BC,19.0,0.5,0.96,11.0,12,5.085111111111112,2015-08-31,44,
+2015-07-23,2015,1,E,False,15/16,Gaetano Monachello,Centre-Forward,France,Ligue 1,Monaco ,Italy,Serie A,Atalanta BC,21.0,0.9,0.5,11.0,12,5.085111111111112,2015-08-31,39,
+2015-09-01,2015,1,I,False,15/16,Bradley Johnson,Central Midfield,England,Premier League,Norwich ,England,Championship,Derby County,28.0,4.0,8.1,9.0,12,3.89375,2015-09-01,0,0.0
+2015-07-03,2015,1,I,True,15/16,Tom Ince,Right Winger,England,Championship,Hull City ,England,Championship,Derby County,23.0,6.5,6.7,11.0,12,3.89375,2015-09-01,60,60.0
+2015-09-01,2015,1,I,True,15/16,Jacob Butterfield,Central Midfield,England,Championship,Huddersfield ,England,Championship,Derby County,25.0,1.2,5.5,33.0,36,3.89375,2015-09-01,0,0.0
+2015-07-01,2015,1,I,False,15/16,Andreas Weimann,Right Winger,England,Premier League,Aston Villa ,England,Championship,Derby County,23.0,4.5,3.8,11.0,12,3.89375,2015-09-01,62,60.0
+2015-07-17,2015,1,E,False,15/16,Teófilo Gutiérrez,Centre-Forward,Argentina,Primera División,River Plate ,Portugal,Primeira Liga,Sporting CP,30.0,3.5,3.4,0.0,0,3.607727272727273,2015-08-31,45,
+2015-07-16,2015,1,E,False,15/16,Naldo,Centre-Back,Italy,Serie A,Udinese Calcio ,Portugal,Primeira Liga,Sporting CP,26.0,2.5,3.0,35.0,36,3.607727272727273,2015-08-31,46,
+2015-07-01,2015,1,E,False,15/16,Ewerton,Centre-Back,Russia,Premier Liga,Anzhi ,Portugal,Primeira Liga,Sporting CP,26.0,3.75,1.5,0.0,0,3.607727272727273,2015-08-31,61,60.0
+2015-07-03,2015,1,E,False,15/16,Bryan Ruíz,Attacking Midfield,England,Championship,Fulham ,Portugal,Primeira Liga,Sporting CP,29.0,5.0,1.32,11.0,12,3.607727272727273,2015-08-31,59,60.0
+2015-08-31,2015,1,E,False,15/16,Robert Beric,Centre-Forward,Austria,Bundesliga,Rapid Vienna ,France,Ligue 1,AS Saint-Étienne,24.0,3.0,7.5,33.0,36,3.3086956521739133,2015-08-31,0,0.0
+2015-07-21,2015,1,I,True,15/16,Nolan Roux,Centre-Forward,France,Ligue 1,LOSC Lille ,France,Ligue 1,AS Saint-Étienne,27.0,4.5,2.0,11.0,12,3.3086956521739133,2015-08-31,41,
+2015-07-01,2015,1,E,False,15/16,Kévin Théophile-Catherine,Centre-Back,England,Championship,Cardiff ,France,Ligue 1,AS Saint-Étienne,25.0,4.0,2.0,23.0,24,3.3086956521739133,2015-08-31,61,60.0
+2015-08-10,2015,1,I,True,15/16,Neal Maupay,Centre-Forward,France,Ligue 1,OGC Nice ,France,Ligue 1,AS Saint-Étienne,18.0,2.0,0.6,22.0,24,3.3086956521739133,2015-08-31,21,
+2015-08-28,2015,1,I,False,15/16,Kévin Malcuit,Right-Back,France,Ligue 2,Chamois Niort ,France,Ligue 1,AS Saint-Étienne,24.0,0.6,0.5,10.0,12,3.3086956521739133,2015-08-31,3,0.0
+2015-07-29,2015,1,I,False,15/16,Robbie Brady,Left Midfield,England,Championship,Hull City ,England,Premier League,Norwich City,23.0,2.0,9.9,0.0,0,3.1718857142857138,2015-09-01,34,
+2015-07-01,2015,1,I,True,15/16,Graham Dorrans,Central Midfield,England,Premier League,West Brom ,England,Premier League,Norwich City,28.0,2.0,4.1,23.0,24,3.1718857142857138,2015-09-01,62,60.0
+2015-08-13,2015,1,I,True,15/16,Gerard Moreno,Centre-Forward,Spain,Primera División,Villarreal ,Spain,Primera División,RCD Espanyol Barcelona,23.0,4.0,1.5,0.0,0,5.628571428571428,2015-08-31,18,
+2015-07-01,2015,1,I,False,15/16,Lucas Vázquez,Right Winger,Spain,Segunda División B - Grupo II,RM Castilla ,Spain,Primera División,RCD Espanyol Barcelona,24.0,5.0,0.5,23.0,24,5.628571428571428,2015-08-31,61,60.0
+2015-08-31,2015,1,E,False,15/16,Mihai Roman,Centre-Forward,Romania,Liga 1,Pandurii  ,Netherlands,Eredivisie,NEC Nijmegen,23.0,1.5,0.35,0.0,0,0.2375,2015-08-31,0,0.0
+2015-08-25,2015,1,I,True,15/16,Joey Sleegers,Left Winger,Netherlands,Eredivisie,Feyenoord ,Netherlands,Eredivisie,NEC Nijmegen,21.0,0.45,0.1,10.0,12,0.2375,2015-08-31,6,
+2015-08-06,2015,1,I,False,15/16,Juan Carlos,Goalkeeper,Spain,Segunda División,Córdoba CF ,Spain,Primera División,Rayo Vallecano,27.0,0.6,0.1,0.0,0,1.38125,2015-08-31,25,
+2015-07-01,2015,1,E,False,15/16,Éder,Centre-Forward,Portugal,Primeira Liga,Braga ,England,Premier League,Swansea City,27.0,6.0,6.7,11.0,12,5.430519999999999,2015-09-01,62,60.0
+2015-07-01,2015,1,E,False,15/16,Kristoffer Nordfeldt,Goalkeeper,Netherlands,Eredivisie,Heerenveen ,England,Premier League,Swansea City,26.0,3.0,0.85,11.0,12,5.430519999999999,2015-09-01,62,60.0
+2015-07-13,2015,1,I,False,15/16,Oliver McBurnie,Centre-Forward,England,League One,Bradford ,England,Premier League,Swansea City,19.0,0.05,0.35,11.0,12,5.430519999999999,2015-09-01,50,
+2015-08-17,2015,1,E,False,15/16,Botti Biabi,Centre-Forward,Scotland,Scottish Championship,Falkirk FC ,England,Premier League,Swansea City,19.0,0.025,0.21,21.0,24,5.430519999999999,2015-09-01,15,
+2015-07-16,2015,1,E,False,15/16,Léo Bonatini,Centre-Forward,Brazil,Campeonato Brasileiro Série A,Cruzeiro ,Portugal,Primeira Liga,GD Estoril Praia,21.0,1.0,0.4,12.0,12,0.1838888888888888,2015-08-31,46,
+2015-08-16,2015,1,E,False,15/16,Jaba Kankava,Defensive Midfield,Ukraine,Premier Liga,Dnipro ,France,Ligue 1,Stade Reims,29.0,4.0,1.5,34.0,36,2.9062500000000004,2015-08-31,15,
+2015-07-17,2015,1,E,False,15/16,Hamari Traoré,Right-Back,Belgium,2.Division,Lierse SK ,France,Ligue 1,Stade Reims,23.0,0.9,0.9,0.0,0,2.9062500000000004,2015-08-31,45,
+2015-09-01,2015,1,I,True,15/16,Stevie May,Centre-Forward,England,Championship,Sheff Wed ,England,Championship,Preston North End,22.0,1.0,1.1,33.0,36,0.9138333333333334,2015-09-01,0,0.0
+2015-07-06,2015,1,E,False,15/16,Ivan Maevskiy,Defensive Midfield,Poland,1 Liga,Zawisza ,Russia,Premier Liga,Anzhi Makhachkala,27.0,0.6,0.25,11.0,12,0.2593333333333333,2015-07-29,23,
+2015-07-01,2015,1,E,False,15/16,Darko Lazic,Centre-Back,Serbia,SuperLiga,Red Star ,Russia,Premier Liga,Anzhi Makhachkala,20.0,0.75,0.15,11.0,12,0.2593333333333333,2015-07-29,28,
+2015-07-01,2015,1,I,True,15/16,Gonzalo Castro,Central Midfield,Germany,1.Bundesliga,Bay. Leverkusen ,Germany,1.Bundesliga,Borussia Dortmund,28.0,14.0,11.0,11.0,12,15.689411764705884,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Roman Bürki,Goalkeeper,Germany,2.Bundesliga,SC Freiburg ,Germany,1.Bundesliga,Borussia Dortmund,24.0,6.0,3.5,35.0,36,15.689411764705884,2015-08-31,61,60.0
+2015-08-29,2015,1,I,True,15/16,Ju-ho Park,Left-Back,Germany,1.Bundesliga,1.FSV Mainz 05 ,Germany,1.Bundesliga,Borussia Dortmund,28.0,2.5,3.0,22.0,24,15.689411764705884,2015-08-31,2,0.0
+2015-07-01,2015,1,I,False,15/16,Julian Weigl,Defensive Midfield,Germany,2.Bundesliga,1860 Munich ,Germany,1.Bundesliga,Borussia Dortmund,19.0,2.0,2.5,23.0,24,15.689411764705884,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Petr Cech,Goalkeeper,England,Premier League,Chelsea ,England,Premier League,Arsenal FC,,12.0,14.0,11.0,12,24.3376,2015-09-01,62,60.0
+2015-08-21,2015,1,I,True,15/16,Andre Gray,Centre-Forward,England,Championship,Brentford ,England,Championship,Burnley FC,24.0,1.0,12.4,22.0,24,5.9613461538461525,2015-09-01,11,
+2015-07-07,2015,1,E,False,15/16,Jelle Vossen,Centre-Forward,Belgium,Jupiler Pro League,KRC Genk ,England,Championship,Burnley FC,26.0,5.0,3.15,23.0,24,5.9613461538461525,2015-09-01,56,60.0
+2015-08-14,2015,1,E,False,15/16,Rouwen Hennings,Centre-Forward,Germany,2.Bundesliga,Karlsruher SC ,England,Championship,Burnley FC,27.0,1.5,2.5,22.0,24,5.9613461538461525,2015-09-01,18,
+2015-07-01,2015,1,I,False,15/16,Matthew Lowton,Right-Back,England,Premier League,Aston Villa ,England,Championship,Burnley FC,26.0,2.0,1.4,23.0,24,5.9613461538461525,2015-09-01,62,60.0
+2015-07-28,2015,1,I,False,15/16,Chris Long,Centre-Forward,England,U21 Premier League,Everton U23 ,England,Championship,Burnley FC,20.0,0.2,1.4,0.0,0,5.9613461538461525,2015-09-01,35,
+2015-07-30,2015,1,I,False,15/16,Tendayi Darikwa,Right-Back,England,League One,Chesterfield FC ,England,Championship,Burnley FC,23.0,0.15,0.855,0.0,0,5.9613461538461525,2015-09-01,33,
+2015-07-01,2015,1,E,False,15/16,Luc Castaignos,Centre-Forward,Netherlands,Eredivisie,Twente FC ,Germany,1.Bundesliga,Eintracht Frankfurt,22.0,5.0,2.5,11.0,12,3.5085714285714285,2015-08-31,61,60.0
+2015-08-07,2015,1,E,False,15/16,Lukas Hradecky,Goalkeeper,Denmark,Superligaen,Bröndby IF ,Germany,1.Bundesliga,Eintracht Frankfurt,25.0,1.25,2.5,22.0,24,3.5085714285714285,2015-08-31,24,
+2015-07-02,2015,1,I,True,15/16,David Abraham,Centre-Back,Germany,1.Bundesliga,TSG Hoffenheim ,Germany,1.Bundesliga,Eintracht Frankfurt,28.0,2.0,1.5,11.0,12,3.5085714285714285,2015-08-31,60,60.0
+2015-08-12,2015,1,E,False,15/16,Mijat Gacinovic,Attacking Midfield,Cyprus,Division A,Apol. Limassol ,Germany,1.Bundesliga,Eintracht Frankfurt,20.0,1.75,1.25,0.0,0,3.5085714285714285,2015-08-31,19,
+2015-07-01,2015,1,I,False,15/16,Robin Gosens,Left-Back,Netherlands,Beloften Eredivisie,Vitesse U21 ,Netherlands,Eredivisie,Heracles Almelo,20.0,0.45,0.2,11.0,12,0.2677777777777778,2015-08-31,61,60.0
+2015-08-20,2015,1,E,False,15/16,Pedro,Right Winger,Spain,Primera División,FC Barcelona ,England,Premier League,Chelsea FC,28.0,20.0,27.0,46.0,48,32.53333333333333,2015-09-01,12,
+2015-08-16,2015,1,E,False,15/16,Abdul Rahman Baba,Left-Back,Germany,1.Bundesliga,FC Augsburg ,England,Premier League,Chelsea FC,21.0,10.0,26.0,46.0,48,32.53333333333333,2015-09-01,16,
+2015-07-13,2015,1,I,True,15/16,Asmir Begovic,Goalkeeper,England,Premier League,Stoke City ,England,Premier League,Chelsea FC,28.0,12.0,11.0,11.0,12,32.53333333333333,2015-09-01,50,
+2015-08-22,2015,1,E,False,15/16,Kenedy,Left Winger,Brazil,Campeonato Brasileiro Série A,Fluminense ,England,Premier League,Chelsea FC,19.0,6.0,8.0,40.0,42,32.53333333333333,2015-09-01,10,
+2015-09-01,2015,1,I,False,15/16,Michael Hector,Centre-Back,England,Championship,Reading ,England,Premier League,Chelsea FC,23.0,0.75,5.4,0.0,0,32.53333333333333,2015-09-01,0,0.0
+2015-07-01,2015,1,E,False,15/16,Nathan,Attacking Midfield,Brazil,Campeonato Brasileiro Série A,Atlético-PR ,England,Premier League,Chelsea FC,19.0,3.0,4.0,0.0,0,32.53333333333333,2015-09-01,62,60.0
+2015-09-01,2015,1,E,False,15/16,Papy Djilobodji,Centre-Back,France,Ligue 1,FC Nantes ,England,Premier League,Chelsea FC,26.0,6.5,3.5,9.0,12,32.53333333333333,2015-09-01,0,0.0
+2015-08-28,2015,1,E,False,15/16,Heung-min Son,Left Winger,Germany,1.Bundesliga,Bay. Leverkusen ,England,Premier League,Tottenham Hotspur,23.0,16.0,30.0,34.0,36,22.278260869565223,2015-09-01,4,0.0
+2015-07-08,2015,1,E,False,15/16,Toby Alderweireld,Centre-Back,Spain,Primera División,Atlético Madrid ,England,Premier League,Tottenham Hotspur,26.0,15.0,16.0,23.0,24,22.278260869565223,2015-09-01,55,60.0
+2015-08-15,2015,1,E,False,15/16,Clinton N'Jie,Right Winger,France,Ligue 1,Olympique Lyon ,England,Premier League,Tottenham Hotspur,22.0,5.0,14.1,46.0,48,22.278260869565223,2015-09-01,17,
+2015-07-01,2015,1,E,False,15/16,Kevin Wimmer,Centre-Back,Germany,1.Bundesliga,1. FC Köln ,England,Premier League,Tottenham Hotspur,22.0,7.5,6.0,47.0,48,22.278260869565223,2015-09-01,62,60.0
+2015-07-01,2015,1,I,False,15/16,Kieran Trippier,Right-Back,England,Championship,Burnley ,England,Premier League,Tottenham Hotspur,24.0,6.0,4.9,0.0,0,22.278260869565223,2015-09-01,62,60.0
+2015-07-01,2015,1,E,False,15/16,Sheran Yeini,Centre-Back,Israel,Ligat ha Al,M. Tel Aviv ,Netherlands,Eredivisie,Vitesse Arnhem,28.0,0.75,0.4,0.0,0,0.8593333333333334,2015-08-31,61,60.0
+2015-07-01,2015,1,unknown,False,15/16,Milot Rashica,Left Winger,Unknown,Unknown,KF Vushtrria ,Netherlands,Eredivisie,Vitesse Arnhem,19.0,0.05,0.3,0.0,0,0.8593333333333334,2015-07-01,0,0.0
+2015-07-23,2015,1,E,False,15/16,Sidnei,Centre-Back,Portugal,Primeira Liga,Benfica ,Spain,Primera División,Deportivo de La Coruña,25.0,3.0,6.5,11.0,12,2.9625,2015-08-31,39,
+2015-08-12,2015,1,E,False,15/16,Lucas Pérez,Centre-Forward,Greece,Super League,PAOK Salonika ,Spain,Primera División,Deportivo de La Coruña,26.0,3.0,1.5,10.0,12,2.9625,2015-08-31,19,
+2015-07-07,2015,1,I,True,15/16,Ryad Boudebouz,Attacking Midfield,France,Ligue 1,SC Bastia ,France,Ligue 1,Montpellier HSC,25.0,3.0,1.7,11.0,12,2.5420454545454545,2015-08-31,55,60.0
+2015-08-31,2015,1,unknown,False,15/16,Casimir Ninga,Left Winger,Unknown,Unknown,Mangasport ,France,Ligue 1,Montpellier HSC,22.0,7.5e-05,0.075,0.0,0,2.5420454545454545,2015-08-31,0,0.0
+2015-07-01,2015,1,I,True,15/16,Lucas Ocampos,Right Winger,France,Ligue 1,Monaco ,France,Ligue 1,Olympique Marseille,20.0,6.5,7.5,23.0,24,8.942307692307693,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Karim Rekik,Centre-Back,England,Premier League,Man City ,France,Ligue 1,Olympique Marseille,20.0,4.0,5.0,11.0,12,8.942307692307693,2015-08-31,61,60.0
+2015-07-03,2015,1,I,False,15/16,Bouna Sarr,Right-Back,France,Ligue 2,FC Metz ,France,Ligue 1,Olympique Marseille,23.0,1.5,2.0,11.0,12,8.942307692307693,2015-08-31,59,60.0
+2015-08-31,2015,1,E,False,15/16,Rolando,Centre-Back,Portugal,Primeira Liga,FC Porto ,France,Ligue 1,Olympique Marseille,30.0,3.5,1.5,9.0,12,8.942307692307693,2015-08-31,0,0.0
+2015-07-01,2015,1,I,True,15/16,Georges-Kevin N'Koudou,Left Winger,France,Ligue 1,FC Nantes ,France,Ligue 1,Olympique Marseille,20.0,2.0,1.5,11.0,12,8.942307692307693,2015-08-31,61,60.0
+2015-07-11,2015,1,E,False,15/16,Georginio Wijnaldum,Central Midfield,Netherlands,Eredivisie,PSV Eindhoven ,England,Premier League,Newcastle United,24.0,15.0,20.0,35.0,36,10.956176470588234,2015-09-01,52,
+2015-07-21,2015,1,E,False,15/16,Aleksandar Mitrovic,Centre-Forward,Belgium,Jupiler Pro League,RSC Anderlecht ,England,Premier League,Newcastle United,20.0,11.0,18.5,35.0,36,10.956176470588234,2015-09-01,42,
+2015-08-19,2015,1,E,False,15/16,Florian Thauvin,Right Winger,France,Ligue 1,Marseille ,England,Premier League,Newcastle United,22.0,12.0,18.35,34.0,36,10.956176470588234,2015-09-01,13,
+2015-07-30,2015,1,E,False,15/16,Chancel Mbemba,Centre-Back,Belgium,Jupiler Pro League,RSC Anderlecht ,England,Premier League,Newcastle United,20.0,8.0,12.0,23.0,24,10.956176470588234,2015-09-01,33,
+2015-08-06,2015,1,I,False,15/16,Ivan Toney,Centre-Forward,England,League Two,Northampton ,England,Premier League,Newcastle United,19.0,0.15,0.36,10.0,12,10.956176470588234,2015-09-01,26,
+2015-07-01,2015,1,I,False,15/16,Christian Bekamenga,Centre-Forward,France,Ligue 2,Stade Lavallois ,France,Ligue 1,ES Troyes AC,29.0,0.8,0.3,11.0,12,0.3,2015-08-31,61,60.0
+2015-07-28,2015,1,E,False,15/16,Arturo Vidal,Central Midfield,Italy,Serie A,Juventus ,Germany,1.Bundesliga,Bayern Munich,28.0,42.0,39.25,23.0,24,23.828947368421048,2015-08-31,34,
+2015-07-01,2015,1,E,False,15/16,Douglas Costa,Right Winger,Ukraine,Premier Liga,Shakhtar D. ,Germany,1.Bundesliga,Bayern Munich,24.0,23.0,30.0,35.0,36,23.828947368421048,2015-08-31,61,60.0
+2015-07-02,2015,1,I,True,15/16,Joshua Kimmich,Defensive Midfield,Germany,1.Bundesliga,VfB Stuttgart ,Germany,1.Bundesliga,Bayern Munich,20.0,5.0,8.5,0.0,0,23.828947368421048,2015-08-31,60,60.0
+2015-07-01,2015,1,I,True,15/16,Sven Ulreich,Goalkeeper,Germany,1.Bundesliga,VfB Stuttgart ,Germany,1.Bundesliga,Bayern Munich,26.0,3.5,3.5,23.0,24,23.828947368421048,2015-08-31,61,60.0
+2015-07-25,2015,1,E,True,15/16,Gaspar Iñíguez,Central Midfield,Argentina,Primera División,Argentinos Jrs. ,Spain,Primera División,Granada CF,21.0,1.4,1.2,0.0,0,2.5164705882352942,2015-08-31,37,
+2015-07-01,2015,1,I,False,15/16,Edgar Méndez,Right Winger,Spain,Segunda División,UD Almería ,Spain,Primera División,Granada CF,25.0,2.5,0.75,0.0,0,2.5164705882352942,2015-08-31,61,60.0
+2015-07-03,2015,1,E,False,15/16,Carlos Bacca,Centre-Forward,Spain,Primera División,Sevilla FC ,Italy,Serie A,AC Milan,28.0,25.0,33.3,35.0,36,16.296857142857142,2015-08-31,59,60.0
+2015-08-11,2015,1,I,True,15/16,Alessio Romagnoli,Centre-Back,Italy,Serie A,AS Roma ,Italy,Serie A,AC Milan,20.0,8.5,25.0,34.0,36,16.296857142857142,2015-08-31,20,
+2015-07-02,2015,1,E,False,15/16,Luiz Adriano,Centre-Forward,Ukraine,Premier Liga,Shakhtar D. ,Italy,Serie A,AC Milan,28.0,8.5,14.0,5.0,6,16.296857142857142,2015-08-31,60,60.0
+2015-08-28,2015,1,I,True,15/16,Juraj Kucka,Central Midfield,Italy,Serie A,Genoa ,Italy,Serie A,AC Milan,28.0,6.0,4.0,10.0,12,16.296857142857142,2015-08-31,3,0.0
+2015-07-01,2015,1,I,True,15/16,Simone Verdi,Attacking Midfield,Italy,Serie A,Torino ,Italy,Serie A,AC Milan,22.0,3.0,0.45,0.0,0,16.296857142857142,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Matteo Pessina,Central Midfield,Italy,Serie D - Girone B,Monza ,Italy,Serie A,AC Milan,18.0,0.25,0.02,35.0,36,16.296857142857142,2015-08-31,61,60.0
+2015-08-06,2015,1,E,False,15/16,Majeed Waris,Centre-Forward,Turkey,Süper Lig,Trabzonspor ,France,Ligue 1,FC Lorient,23.0,4.25,4.73,34.0,36,3.311818181818182,2015-08-31,25,
+2015-08-05,2015,1,I,True,15/16,Benjamin Moukandjo,Centre-Forward,France,Ligue 1,Stade Reims ,France,Ligue 1,FC Lorient,26.0,2.5,1.5,10.0,12,3.311818181818182,2015-08-31,26,
+2015-08-31,2015,1,I,False,15/16,Zargo Touré,Centre-Back,France,Ligue 2,AC Le Havre ,France,Ligue 1,FC Lorient,25.0,0.8,1.5,9.0,12,3.311818181818182,2015-08-31,0,0.0
+2015-07-22,2015,1,E,False,15/16,Moryké Fofana,Left Winger,Norway,Tippeligaen,Lillestrøm SK ,France,Ligue 1,FC Lorient,23.0,0.7,0.4,5.0,6,3.311818181818182,2015-08-31,40,
+2015-08-31,2015,1,I,False,15/16,Stanley Elbers,Right Winger,Netherlands,Jupiler League,Helmond Sport ,Netherlands,Eredivisie,SBV Excelsior Rotterdam,23.0,0.2,0.3,21.0,24,0.3,2015-08-31,0,0.0
+2015-08-13,2015,1,I,True,15/16,Eric Botteghin,Centre-Back,Netherlands,Eredivisie,FC Groningen ,Netherlands,Eredivisie,Feyenoord Rotterdam,27.0,3.0,2.5,10.0,12,2.9473684210526314,2015-08-31,18,
+2015-08-07,2015,1,I,True,15/16,Michiel Kramer,Centre-Forward,Netherlands,Eredivisie,ADO Den Haag ,Netherlands,Eredivisie,Feyenoord Rotterdam,26.0,2.5,1.5,10.0,12,2.9473684210526314,2015-08-31,24,
+2015-07-15,2015,1,E,False,15/16,Simon Gustafson,Attacking Midfield,Sweden,Allsvenskan,Häcken ,Netherlands,Eredivisie,Feyenoord Rotterdam,20.0,1.0,1.5,17.0,18,2.9473684210526314,2015-08-31,47,
+2015-07-16,2015,1,I,True,15/16,Tozé,Attacking Midfield,Portugal,Primeira Liga,FC Porto ,Portugal,Primeira Liga,Vitória Guimarães SC,22.0,3.5,1.5,0.0,0,0.9384210526315788,2015-08-26,41,
+2015-07-01,2015,1,I,False,15/16,Dalbert,Left-Back,Portugal,Segunda Liga,Académico Viseu ,Portugal,Primeira Liga,Vitória Guimarães SC,21.0,0.25,0.5,0.0,0,0.9384210526315788,2015-08-26,56,60.0
+2015-07-01,2015,1,I,True,15/16,Tom Cairney,Central Midfield,England,Championship,Blackburn ,England,Championship,Fulham FC,24.0,3.0,4.2,23.0,24,6.175,2015-09-01,62,60.0
+2015-08-20,2015,1,I,True,15/16,Tim Ream,Centre-Back,England,Championship,Bolton ,England,Championship,Fulham FC,27.0,1.5,1.7,22.0,24,6.175,2015-09-01,12,
+2015-09-01,2015,1,I,True,15/16,Richard Stearman,Centre-Back,England,Championship,Wolves ,England,Championship,Fulham FC,28.0,1.3,1.38,0.0,0,6.175,2015-09-01,0,0.0
+2015-08-31,2015,1,I,True,15/16,Ryan Fredericks,Right-Back,England,Championship,Bristol City ,England,Championship,Fulham FC,22.0,0.25,0.25,33.0,36,6.175,2015-09-01,1,0.0
+2015-08-04,2015,1,E,False,15/16,Sakari Mattila,Defensive Midfield,Norway,Tippeligaen,Aalesund ,England,Championship,Fulham FC,26.0,0.5,0.2,16.0,18,6.175,2015-09-01,28,
+2015-08-06,2015,1,E,False,15/16,Ángel Di María,Right Winger,England,Premier League,Man Utd ,France,Ligue 1,Paris Saint-Germain,27.0,50.0,63.0,46.0,48,38.25454545454546,2015-08-31,25,
+2015-08-27,2015,1,I,True,15/16,Layvin Kurzawa,Left-Back,France,Ligue 1,Monaco ,France,Ligue 1,Paris Saint-Germain,22.0,10.0,25.0,34.0,36,38.25454545454546,2015-08-31,4,0.0
+2015-07-01,2015,1,I,True,15/16,Serge Aurier,Right-Back,France,Ligue 1,Toulouse ,France,Ligue 1,Paris Saint-Germain,22.0,10.0,10.0,11.0,12,38.25454545454546,2015-08-31,61,60.0
+2015-07-08,2015,1,E,False,15/16,Kevin Trapp,Goalkeeper,Germany,1.Bundesliga,E. Frankfurt ,France,Ligue 1,Paris Saint-Germain,25.0,8.0,9.5,11.0,12,38.25454545454546,2015-08-31,54,
+2015-07-21,2015,1,E,False,15/16,Benjamin Stambouli,Centre-Back,England,Premier League,Spurs ,France,Ligue 1,Paris Saint-Germain,24.0,5.0,8.6,47.0,48,38.25454545454546,2015-08-31,41,40.0
+2015-07-01,2015,1,E,False,15/16,Shinji Okazaki,Centre-Forward,Germany,1.Bundesliga,1.FSV Mainz 05 ,England,Premier League,Leicester City,29.0,8.0,11.0,11.0,12,15.680645161290322,2015-09-01,62,60.0
+2015-08-03,2015,1,E,False,15/16,N'Golo Kanté,Central Midfield,France,Ligue 1,SM Caen ,England,Premier League,Leicester City,24.0,4.5,9.0,34.0,36,15.680645161290322,2015-09-01,29,
+2015-08-19,2015,1,E,False,15/16,Gökhan Inler,Defensive Midfield,Italy,Serie A,SSC Napoli ,England,Premier League,Leicester City,31.0,7.5,7.0,10.0,12,15.680645161290322,2015-09-01,13,
+2015-08-03,2015,1,E,False,15/16,Yohan Benalouane,Centre-Back,Italy,Serie A,Atalanta ,England,Premier League,Leicester City,28.0,1.3,7.0,46.0,48,15.680645161290322,2015-09-01,29,
+2015-07-01,2015,1,I,True,15/16,Robert Huth,Centre-Back,England,Premier League,Stoke City ,England,Premier League,Leicester City,30.0,5.0,4.2,11.0,12,15.680645161290322,2015-09-01,62,60.0
+2015-07-01,2015,1,I,False,15/16,Chris Wood,Centre-Forward,England,Premier League,Leicester ,England,Championship,Leeds United,23.0,1.0,3.6,0.0,0,4.908939393939394,2015-09-01,62,60.0
+2015-08-04,2015,1,I,True,15/16,Stuart Dallas,Right-Back,England,Championship,Brentford ,England,Championship,Leeds United,24.0,0.35,1.9,22.0,24,4.908939393939394,2015-09-01,28,
+2015-09-01,2015,1,E,False,15/16,Jordan Botaka,Right-Back,Netherlands,Eredivisie,Excelsior ,England,Championship,Leeds United,22.0,0.75,0.675,0.0,0,4.908939393939394,2015-09-01,0,0.0
+2015-09-01,2015,1,E,False,15/16,Anthony Martial,Centre-Forward,France,Ligue 1,Monaco ,England,Premier League,Manchester United,19.0,8.0,60.0,45.0,48,40.01652173913043,2015-09-01,0,0.0
+2015-07-13,2015,1,I,True,15/16,Morgan Schneiderlin,Defensive Midfield,England,Premier League,Southampton ,England,Premier League,Manchester United,25.0,28.0,35.0,23.0,24,40.01652173913043,2015-09-01,50,
+2015-07-01,2015,1,E,False,15/16,Memphis Depay,Left Winger,Netherlands,Eredivisie,PSV Eindhoven ,England,Premier League,Manchester United,21.0,28.0,34.0,35.0,36,40.01652173913043,2015-09-01,62,60.0
+2015-07-11,2015,1,E,False,15/16,Matteo Darmian,Right-Back,Italy,Serie A,Torino ,England,Premier League,Manchester United,25.0,12.0,18.0,23.0,24,40.01652173913043,2015-09-01,52,
+2015-07-13,2015,1,E,False,15/16,Bastian Schweinsteiger,Central Midfield,Germany,1.Bundesliga,Bayern Munich  ,England,Premier League,Manchester United,30.0,22.0,9.0,11.0,12,40.01652173913043,2015-09-01,50,
+2015-08-07,2015,1,I,True,15/16,Moses Odubajo,Right-Back,England,Championship,Brentford ,England,Championship,Hull City,22.0,1.5,5.0,22.0,24,3.0038636363636364,2015-09-01,25,
+2015-08-27,2015,1,E,False,15/16,Shaun Maloney,Attacking Midfield,United States,Major League Soccer,Chicago Fire ,England,Championship,Hull City,32.0,1.5,2.0,0.0,0,3.0038636363636364,2015-09-01,5,0.0
+2015-07-27,2015,1,I,False,15/16,Sam Clucas,Central Midfield,England,League One,Chesterfield FC ,England,Championship,Hull City,24.0,0.175,1.8,17.0,18,3.0038636363636364,2015-09-01,36,40.0
+2015-08-18,2015,1,E,False,15/16,Mateo Kovacic,Central Midfield,Italy,Serie A,Inter ,Spain,Primera División,Real Madrid,21.0,22.0,38.0,46.0,48,27.98958333333333,2015-08-31,13,
+2015-07-01,2015,1,E,False,15/16,Danilo,Right-Back,Portugal,Primeira Liga,FC Porto ,Spain,Primera División,Real Madrid,23.0,25.0,31.5,0.0,0,27.98958333333333,2015-08-31,61,60.0
+2015-07-17,2015,1,I,True,15/16,Kiko Casilla,Goalkeeper,Spain,Primera División,Espanyol ,Spain,Primera División,Real Madrid,28.0,7.5,6.0,35.0,36,27.98958333333333,2015-08-31,45,40.0
+2015-07-31,2015,1,I,False,15/16,Jesús Vallejo,Centre-Back,Spain,Segunda División,Real Zaragoza ,Spain,Primera División,Real Madrid,18.0,2.0,5.0,46.0,48,27.98958333333333,2015-08-31,31,
+2015-07-01,2015,1,I,False,15/16,Marco Asensio,Left Winger,Spain,Segunda División,RCD Mallorca ,Spain,Primera División,Real Madrid,19.0,3.5,3.5,23.0,24,27.98958333333333,2015-08-31,61,60.0
+2015-07-02,2015,1,I,True,15/16,Lucas Vázquez,Right Winger,Spain,Primera División,Espanyol ,Spain,Primera División,Real Madrid,24.0,5.0,1.0,47.0,48,27.98958333333333,2015-08-31,60,60.0
+2015-08-31,2015,1,E,False,15/16,Jesús Corona,Right Winger,Netherlands,Eredivisie,Twente FC ,Portugal,Primeira Liga,FC Porto,22.0,6.5,10.5,33.0,36,5.631714285714287,2015-08-31,0,0.0
+2015-07-02,2015,1,I,True,15/16,Danilo Pereira,Defensive Midfield,Portugal,Primeira Liga,Marítimo ,Portugal,Primeira Liga,FC Porto,23.0,5.0,4.5,11.0,12,5.631714285714287,2015-08-26,55,60.0
+2015-07-01,2015,1,I,True,15/16,André André,Central Midfield,Portugal,Primeira Liga,Vit. Guimarães ,Portugal,Primeira Liga,FC Porto,25.0,5.5,1.5,23.0,24,5.631714285714287,2015-08-26,56,60.0
+2015-07-01,2015,1,I,True,15/16,Sérgio Oliveira,Central Midfield,Portugal,Primeira Liga,Paços Ferreira ,Portugal,Primeira Liga,FC Porto,23.0,2.5,1.0,11.0,12,5.631714285714287,2015-08-26,56,60.0
+2015-07-26,2015,1,E,False,15/16,Deyverson,Centre-Forward,Portugal,Primeira Liga,Belenenses SAD ,Spain,Primera División,Levante UD,24.0,0.75,1.8,23.0,24,2.5886363636363643,2015-08-31,36,40.0
+2015-08-31,2015,1,I,False,15/16,Diego Mariño,Goalkeeper,Spain,Segunda División,Real Valladolid ,Spain,Primera División,Levante UD,25.0,2.5,0.25,33.0,36,2.5886363636363643,2015-08-31,0,0.0
+2015-07-01,2015,1,I,False,15/16,Luka Krajnc,Centre-Back,Italy,Serie B,Cesena ,Italy,Serie A,Genoa CFC,20.0,1.4,5.0,23.0,24,3.4467611111111114,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Michael Ventre,Second Striker,Italy,Serie A,Inter ,Italy,Serie A,Genoa CFC,19.0,0.1,3.5,0.0,0,3.4467611111111114,2015-08-31,61,60.0
+2015-07-01,2015,1,I,True,15/16,Leonardo Pavoletti,Centre-Forward,Italy,Serie A,Sassuolo ,Italy,Serie A,Genoa CFC,26.0,3.5,3.0,0.0,0,3.4467611111111114,2015-08-31,61,60.0
+2015-08-10,2015,1,E,False,15/16,Salomón Rondón,Centre-Forward,Russia,Premier Liga,Zenit S-Pb ,England,Premier League,West Bromwich Albion,25.0,15.0,17.0,34.0,36,7.046206896551722,2015-09-01,22,
+2015-07-29,2015,1,I,False,15/16,James Chester,Centre-Back,England,Championship,Hull City ,England,Premier League,West Bromwich Albion,26.0,2.0,11.3,0.0,0,7.046206896551722,2015-09-01,34,
+2015-08-29,2015,1,I,True,15/16,Jonny Evans,Centre-Back,England,Premier League,Man Utd ,England,Premier League,West Bromwich Albion,27.0,6.0,8.3,0.0,0,7.046206896551722,2015-09-01,3,0.0
+2015-07-31,2015,1,I,True,15/16,Rickie Lambert,Centre-Forward,England,Premier League,Liverpool ,England,Premier League,West Bromwich Albion,,3.0,4.2,10.0,12,7.046206896551722,2015-09-01,32,
+2015-07-01,2015,1,I,False,15/16,James McClean,Left Midfield,England,League One,Wigan ,England,Premier League,West Bromwich Albion,26.0,3.0,2.1,11.0,12,7.046206896551722,2015-09-01,62,60.0
+2015-08-05,2015,1,E,False,15/16,Nordin Amrabat,Right Winger,Turkey,Süper Lig,Galatasaray ,Spain,Primera División,Málaga CF,28.0,6.0,3.5,22.0,24,2.2384615384615385,2015-08-31,26,
+2015-07-01,2015,1,I,True,15/16,Charles,Centre-Forward,Spain,Primera División,Celta de Vigo ,Spain,Primera División,Málaga CF,31.0,2.0,0.5,23.0,24,2.2384615384615385,2015-08-31,61,60.0
+2015-08-30,2015,1,I,True,15/16,Raúl García,Centre-Forward,Spain,Primera División,Atlético Madrid ,Spain,Primera División,Athletic Bilbao,29.0,12.0,10.0,34.0,36,10.675,2015-08-31,1,0.0
+2015-08-07,2015,1,E,False,15/16,Luka Zahovic,Centre-Forward,Slovenia,Prva Liga,NK Maribor ,Netherlands,Eredivisie,SC Heerenveen,19.0,0.8,0.7,22.0,24,0.9023529411764708,2015-08-31,24,
+2015-08-07,2015,1,I,True,15/16,Mitchell te Vrede,Centre-Forward,Netherlands,Eredivisie,Feyenoord ,Netherlands,Eredivisie,SC Heerenveen,24.0,1.0,0.5,10.0,12,0.9023529411764708,2015-08-31,24,
+2015-07-01,2015,1,I,True,15/16,Caner Cavlan,Left-Back,Netherlands,Eredivisie,De Graafschap ,Netherlands,Eredivisie,SC Heerenveen,23.0,0.2,0.3,11.0,12,0.9023529411764708,2015-08-31,61,60.0
+2015-07-15,2015,1,E,False,15/16,Jeremain Lens,Right Winger,Ukraine,Premier Liga,Dynamo Kyiv ,England,Premier League,Sunderland AFC,27.0,12.0,11.4,23.0,24,5.118684210526316,2015-09-01,48,
+2015-07-01,2015,1,E,False,15/16,Ricardo Álvarez,Central Midfield,Italy,Serie A,Inter ,England,Premier League,Sunderland AFC,27.0,10.0,10.5,35.0,36,5.118684210526316,2015-09-01,62,60.0
+2015-07-16,2015,1,I,True,15/16,Younès Kaboul,Centre-Back,England,Premier League,Spurs ,England,Premier League,Sunderland AFC,29.0,4.5,4.3,11.0,12,5.118684210526316,2015-09-01,47,
+2015-07-01,2015,1,E,False,15/16,Santiago Vergini,Centre-Back,Argentina,Primera División,Estudiantes ,England,Premier League,Sunderland AFC,26.0,2.0,2.85,0.0,0,5.118684210526316,2015-09-01,62,60.0
+2015-07-04,2015,1,E,False,15/16,Adam Matthews,Right-Back,Scotland,Scottish Premiership,Celtic ,England,Premier League,Sunderland AFC,23.0,2.5,2.8,11.0,12,5.118684210526316,2015-09-01,59,60.0
+2015-07-01,2015,1,I,True,15/16,Sebastián Coates,Centre-Back,England,Premier League,Liverpool ,England,Premier League,Sunderland AFC,24.0,2.5,2.8,11.0,12,5.118684210526316,2015-09-01,62,60.0
+2015-08-30,2015,1,E,False,15/16,Filip Krovinovic,Attacking Midfield,Croatia,1.HNL,NK Zagreb ,Portugal,Primeira Liga,Rio Ave FC,20.0,0.7,0.8,33.0,36,0.77,2015-08-31,1,0.0
+2015-08-31,2015,1,I,True,15/16,Ja-cheol Koo,Central Midfield,Germany,1.Bundesliga,1.FSV Mainz 05 ,Germany,1.Bundesliga,FC Augsburg,26.0,4.5,5.0,33.0,36,3.1416666666666666,2015-08-31,0,0.0
+2015-08-04,2015,1,I,False,15/16,Philipp Max,Left-Back,Germany,2.Bundesliga,Karlsruher SC ,Germany,1.Bundesliga,FC Augsburg,21.0,0.9,3.8,22.0,24,3.1416666666666666,2015-08-31,27,
+2015-08-20,2015,1,I,True,15/16,Konstantinos Stafylidis,Left-Back,Germany,1.Bundesliga,Bay. Leverkusen ,Germany,1.Bundesliga,FC Augsburg,21.0,2.0,2.5,34.0,36,3.1416666666666666,2015-08-31,11,
+2015-07-01,2015,1,I,True,15/16,Dominik Kohr,Central Midfield,Germany,1.Bundesliga,Bay. Leverkusen ,Germany,1.Bundesliga,FC Augsburg,21.0,2.5,1.4,11.0,12,3.1416666666666666,2015-08-31,61,60.0
+2015-07-20,2015,1,E,False,15/16,Jeff Louis,Attacking Midfield,Belgium,Jupiler Pro League,Standard Liège ,France,Ligue 1,SM Caen,22.0,1.5,2.0,47.0,48,1.335,2015-08-31,42,40.0
+2015-07-02,2015,1,E,False,15/16,Andy Delort,Centre-Forward,England,League One,Wigan ,France,Ligue 1,SM Caen,23.0,1.5,2.0,11.0,12,1.335,2015-08-31,60,60.0
+2015-07-03,2015,1,I,True,15/16,Jonathan Delaplace,Central Midfield,France,Ligue 1,LOSC Lille ,France,Ligue 1,SM Caen,29.0,1.5,0.6,11.0,12,1.335,2015-08-31,59,60.0
+2015-07-01,2015,1,I,True,15/16,Chaker Alhadhur,Left-Back,France,Ligue 1,FC Nantes ,France,Ligue 1,SM Caen,23.0,1.0,0.05,11.0,12,1.335,2015-08-31,61,60.0
+2015-07-01,2015,1,E,False,15/16,Leandro Paredes,Central Midfield,Argentina,Primera División,Boca Juniors ,Italy,Serie A,AS Roma,21.0,3.5,6.0,11.0,12,10.598367346938774,2015-08-31,61,60.0
+2015-08-31,2015,1,E,False,15/16,Ezequiel Ponce,Centre-Forward,Argentina,Primera División,Newell's ,Italy,Serie A,AS Roma,18.0,6.0,4.2,16.0,18,10.598367346938774,2015-08-31,0,0.0
+2015-07-01,2015,1,I,False,15/16,Nemanja Radonjic,Left Winger,Italy,Campionato Primavera Girone C,Empoli U19 ,Italy,Serie A,AS Roma,19.0,0.05,4.0,0.0,0,10.598367346938774,2015-08-31,61,60.0
+2015-07-01,2015,1,I,False,15/16,Matteo Politano,Right Winger,Italy,Serie B,Pescara ,Italy,Serie A,AS Roma,21.0,2.0,0.6,0.0,0,10.598367346938774,2015-08-31,61,60.0
